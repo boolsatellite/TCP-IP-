@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/TCP_IP_.dir/2.hello_client.c.o CMakeFiles/TCP_IP_.dir/homework1.5_copy_file.c.o  -o TCP_IP_ 
