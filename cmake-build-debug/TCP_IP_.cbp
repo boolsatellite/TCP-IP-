@@ -79,6 +79,24 @@
 		<Unit filename="/mnt/e/github/TCP-IP-/2.hello_client.c">
 			<Option target="TCP_IP_"/>
 		</Unit>
+		<Unit filename="/mnt/e/github/TCP-IP-/3.socket_type_set_protocol.c">
+			<Option target="TCP_IP_"/>
+		</Unit>
+		<Unit filename="/mnt/e/github/TCP-IP-/4.tcp_client.c">
+			<Option target="TCP_IP_"/>
+		</Unit>
+		<Unit filename="/mnt/e/github/TCP-IP-/5.endian_conv.c">
+			<Option target="TCP_IP_"/>
+		</Unit>
+		<Unit filename="/mnt/e/github/TCP-IP-/6.inet_addr.c">
+			<Option target="TCP_IP_"/>
+		</Unit>
+		<Unit filename="/mnt/e/github/TCP-IP-/7.inet_aton.c">
+			<Option target="TCP_IP_"/>
+		</Unit>
+		<Unit filename="/mnt/e/github/TCP-IP-/8.inet_ntoa.c">
+			<Option target="TCP_IP_"/>
+		</Unit>
 		<Unit filename="/mnt/e/github/TCP-IP-/homework1.5_copy_file.c">
 			<Option target="TCP_IP_"/>
 		</Unit>

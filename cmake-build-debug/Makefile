@@ -150,6 +150,168 @@ TCP_IP_/fast:
 	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/2.hello_client.c.s
 .PHONY : 2.hello_client.c.s
 
+3.socket_type_set_protocol.o: 3.socket_type_set_protocol.c.o
+
+.PHONY : 3.socket_type_set_protocol.o
+
+# target to build an object file
+3.socket_type_set_protocol.c.o:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/3.socket_type_set_protocol.c.o
+.PHONY : 3.socket_type_set_protocol.c.o
+
+3.socket_type_set_protocol.i: 3.socket_type_set_protocol.c.i
+
+.PHONY : 3.socket_type_set_protocol.i
+
+# target to preprocess a source file
+3.socket_type_set_protocol.c.i:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/3.socket_type_set_protocol.c.i
+.PHONY : 3.socket_type_set_protocol.c.i
+
+3.socket_type_set_protocol.s: 3.socket_type_set_protocol.c.s
+
+.PHONY : 3.socket_type_set_protocol.s
+
+# target to generate assembly for a file
+3.socket_type_set_protocol.c.s:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/3.socket_type_set_protocol.c.s
+.PHONY : 3.socket_type_set_protocol.c.s
+
+4.tcp_client.o: 4.tcp_client.c.o
+
+.PHONY : 4.tcp_client.o
+
+# target to build an object file
+4.tcp_client.c.o:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/4.tcp_client.c.o
+.PHONY : 4.tcp_client.c.o
+
+4.tcp_client.i: 4.tcp_client.c.i
+
+.PHONY : 4.tcp_client.i
+
+# target to preprocess a source file
+4.tcp_client.c.i:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/4.tcp_client.c.i
+.PHONY : 4.tcp_client.c.i
+
+4.tcp_client.s: 4.tcp_client.c.s
+
+.PHONY : 4.tcp_client.s
+
+# target to generate assembly for a file
+4.tcp_client.c.s:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/4.tcp_client.c.s
+.PHONY : 4.tcp_client.c.s
+
+5.endian_conv.o: 5.endian_conv.c.o
+
+.PHONY : 5.endian_conv.o
+
+# target to build an object file
+5.endian_conv.c.o:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/5.endian_conv.c.o
+.PHONY : 5.endian_conv.c.o
+
+5.endian_conv.i: 5.endian_conv.c.i
+
+.PHONY : 5.endian_conv.i
+
+# target to preprocess a source file
+5.endian_conv.c.i:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/5.endian_conv.c.i
+.PHONY : 5.endian_conv.c.i
+
+5.endian_conv.s: 5.endian_conv.c.s
+
+.PHONY : 5.endian_conv.s
+
+# target to generate assembly for a file
+5.endian_conv.c.s:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/5.endian_conv.c.s
+.PHONY : 5.endian_conv.c.s
+
+6.inet_addr.o: 6.inet_addr.c.o
+
+.PHONY : 6.inet_addr.o
+
+# target to build an object file
+6.inet_addr.c.o:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/6.inet_addr.c.o
+.PHONY : 6.inet_addr.c.o
+
+6.inet_addr.i: 6.inet_addr.c.i
+
+.PHONY : 6.inet_addr.i
+
+# target to preprocess a source file
+6.inet_addr.c.i:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/6.inet_addr.c.i
+.PHONY : 6.inet_addr.c.i
+
+6.inet_addr.s: 6.inet_addr.c.s
+
+.PHONY : 6.inet_addr.s
+
+# target to generate assembly for a file
+6.inet_addr.c.s:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/6.inet_addr.c.s
+.PHONY : 6.inet_addr.c.s
+
+7.inet_aton.o: 7.inet_aton.c.o
+
+.PHONY : 7.inet_aton.o
+
+# target to build an object file
+7.inet_aton.c.o:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/7.inet_aton.c.o
+.PHONY : 7.inet_aton.c.o
+
+7.inet_aton.i: 7.inet_aton.c.i
+
+.PHONY : 7.inet_aton.i
+
+# target to preprocess a source file
+7.inet_aton.c.i:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/7.inet_aton.c.i
+.PHONY : 7.inet_aton.c.i
+
+7.inet_aton.s: 7.inet_aton.c.s
+
+.PHONY : 7.inet_aton.s
+
+# target to generate assembly for a file
+7.inet_aton.c.s:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/7.inet_aton.c.s
+.PHONY : 7.inet_aton.c.s
+
+8.inet_ntoa.o: 8.inet_ntoa.c.o
+
+.PHONY : 8.inet_ntoa.o
+
+# target to build an object file
+8.inet_ntoa.c.o:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/8.inet_ntoa.c.o
+.PHONY : 8.inet_ntoa.c.o
+
+8.inet_ntoa.i: 8.inet_ntoa.c.i
+
+.PHONY : 8.inet_ntoa.i
+
+# target to preprocess a source file
+8.inet_ntoa.c.i:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/8.inet_ntoa.c.i
+.PHONY : 8.inet_ntoa.c.i
+
+8.inet_ntoa.s: 8.inet_ntoa.c.s
+
+.PHONY : 8.inet_ntoa.s
+
+# target to generate assembly for a file
+8.inet_ntoa.c.s:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/8.inet_ntoa.c.s
+.PHONY : 8.inet_ntoa.c.s
+
 homework1.5_copy_file.o: homework1.5_copy_file.c.o
 
 .PHONY : homework1.5_copy_file.o
@@ -189,6 +351,24 @@ help:
 	@echo "... 2.hello_client.o"
 	@echo "... 2.hello_client.i"
 	@echo "... 2.hello_client.s"
+	@echo "... 3.socket_type_set_protocol.o"
+	@echo "... 3.socket_type_set_protocol.i"
+	@echo "... 3.socket_type_set_protocol.s"
+	@echo "... 4.tcp_client.o"
+	@echo "... 4.tcp_client.i"
+	@echo "... 4.tcp_client.s"
+	@echo "... 5.endian_conv.o"
+	@echo "... 5.endian_conv.i"
+	@echo "... 5.endian_conv.s"
+	@echo "... 6.inet_addr.o"
+	@echo "... 6.inet_addr.i"
+	@echo "... 6.inet_addr.s"
+	@echo "... 7.inet_aton.o"
+	@echo "... 7.inet_aton.i"
+	@echo "... 7.inet_aton.s"
+	@echo "... 8.inet_ntoa.o"
+	@echo "... 8.inet_ntoa.i"
+	@echo "... 8.inet_ntoa.s"
 	@echo "... homework1.5_copy_file.o"
 	@echo "... homework1.5_copy_file.i"
 	@echo "... homework1.5_copy_file.s"
