@@ -9,6 +9,10 @@ dotted          点缀的
 decimal         十进制
 natation        符号
 integer         整数
+transmission    传播
+transmission    传播
+layer           层
+transport       传输
 
 
 ```

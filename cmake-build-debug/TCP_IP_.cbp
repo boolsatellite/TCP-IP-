@@ -76,28 +76,13 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/mnt/e/github/TCP-IP-/2.hello_client.c">
+		<Unit filename="/mnt/e/github/TCP-IP-/10.echo_client.c">
 			<Option target="TCP_IP_"/>
 		</Unit>
-		<Unit filename="/mnt/e/github/TCP-IP-/3.socket_type_set_protocol.c">
+		<Unit filename="/mnt/e/github/TCP-IP-/9.echo_server.c">
 			<Option target="TCP_IP_"/>
 		</Unit>
-		<Unit filename="/mnt/e/github/TCP-IP-/4.tcp_client.c">
-			<Option target="TCP_IP_"/>
-		</Unit>
-		<Unit filename="/mnt/e/github/TCP-IP-/5.endian_conv.c">
-			<Option target="TCP_IP_"/>
-		</Unit>
-		<Unit filename="/mnt/e/github/TCP-IP-/6.inet_addr.c">
-			<Option target="TCP_IP_"/>
-		</Unit>
-		<Unit filename="/mnt/e/github/TCP-IP-/7.inet_aton.c">
-			<Option target="TCP_IP_"/>
-		</Unit>
-		<Unit filename="/mnt/e/github/TCP-IP-/8.inet_ntoa.c">
-			<Option target="TCP_IP_"/>
-		</Unit>
-		<Unit filename="/mnt/e/github/TCP-IP-/homework1.5_copy_file.c">
+		<Unit filename="/mnt/e/github/TCP-IP-/homework4.5.c">
 			<Option target="TCP_IP_"/>
 		</Unit>
 		<Unit filename="/mnt/e/github/TCP-IP-/CMakeLists.txt">

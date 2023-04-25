@@ -57,135 +57,60 @@ include CMakeFiles/TCP_IP_.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/TCP_IP_.dir/flags.make
 
-CMakeFiles/TCP_IP_.dir/2.hello_client.c.o: CMakeFiles/TCP_IP_.dir/flags.make
-CMakeFiles/TCP_IP_.dir/2.hello_client.c.o: ../2.hello_client.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/e/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/TCP_IP_.dir/2.hello_client.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/TCP_IP_.dir/2.hello_client.c.o   -c /mnt/e/github/TCP-IP-/2.hello_client.c
+CMakeFiles/TCP_IP_.dir/9.echo_server.c.o: CMakeFiles/TCP_IP_.dir/flags.make
+CMakeFiles/TCP_IP_.dir/9.echo_server.c.o: ../9.echo_server.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/e/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/TCP_IP_.dir/9.echo_server.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/TCP_IP_.dir/9.echo_server.c.o   -c /mnt/e/github/TCP-IP-/9.echo_server.c
 
-CMakeFiles/TCP_IP_.dir/2.hello_client.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_IP_.dir/2.hello_client.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/e/github/TCP-IP-/2.hello_client.c > CMakeFiles/TCP_IP_.dir/2.hello_client.c.i
+CMakeFiles/TCP_IP_.dir/9.echo_server.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_IP_.dir/9.echo_server.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/e/github/TCP-IP-/9.echo_server.c > CMakeFiles/TCP_IP_.dir/9.echo_server.c.i
 
-CMakeFiles/TCP_IP_.dir/2.hello_client.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_IP_.dir/2.hello_client.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/e/github/TCP-IP-/2.hello_client.c -o CMakeFiles/TCP_IP_.dir/2.hello_client.c.s
+CMakeFiles/TCP_IP_.dir/9.echo_server.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_IP_.dir/9.echo_server.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/e/github/TCP-IP-/9.echo_server.c -o CMakeFiles/TCP_IP_.dir/9.echo_server.c.s
 
-CMakeFiles/TCP_IP_.dir/homework1.5_copy_file.c.o: CMakeFiles/TCP_IP_.dir/flags.make
-CMakeFiles/TCP_IP_.dir/homework1.5_copy_file.c.o: ../homework1.5_copy_file.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/e/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/TCP_IP_.dir/homework1.5_copy_file.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/TCP_IP_.dir/homework1.5_copy_file.c.o   -c /mnt/e/github/TCP-IP-/homework1.5_copy_file.c
+CMakeFiles/TCP_IP_.dir/10.echo_client.c.o: CMakeFiles/TCP_IP_.dir/flags.make
+CMakeFiles/TCP_IP_.dir/10.echo_client.c.o: ../10.echo_client.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/e/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/TCP_IP_.dir/10.echo_client.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/TCP_IP_.dir/10.echo_client.c.o   -c /mnt/e/github/TCP-IP-/10.echo_client.c
 
-CMakeFiles/TCP_IP_.dir/homework1.5_copy_file.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_IP_.dir/homework1.5_copy_file.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/e/github/TCP-IP-/homework1.5_copy_file.c > CMakeFiles/TCP_IP_.dir/homework1.5_copy_file.c.i
+CMakeFiles/TCP_IP_.dir/10.echo_client.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_IP_.dir/10.echo_client.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/e/github/TCP-IP-/10.echo_client.c > CMakeFiles/TCP_IP_.dir/10.echo_client.c.i
 
-CMakeFiles/TCP_IP_.dir/homework1.5_copy_file.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_IP_.dir/homework1.5_copy_file.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/e/github/TCP-IP-/homework1.5_copy_file.c -o CMakeFiles/TCP_IP_.dir/homework1.5_copy_file.c.s
+CMakeFiles/TCP_IP_.dir/10.echo_client.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_IP_.dir/10.echo_client.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/e/github/TCP-IP-/10.echo_client.c -o CMakeFiles/TCP_IP_.dir/10.echo_client.c.s
 
-CMakeFiles/TCP_IP_.dir/3.socket_type_set_protocol.c.o: CMakeFiles/TCP_IP_.dir/flags.make
-CMakeFiles/TCP_IP_.dir/3.socket_type_set_protocol.c.o: ../3.socket_type_set_protocol.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/e/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/TCP_IP_.dir/3.socket_type_set_protocol.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/TCP_IP_.dir/3.socket_type_set_protocol.c.o   -c /mnt/e/github/TCP-IP-/3.socket_type_set_protocol.c
+CMakeFiles/TCP_IP_.dir/homework4.5.c.o: CMakeFiles/TCP_IP_.dir/flags.make
+CMakeFiles/TCP_IP_.dir/homework4.5.c.o: ../homework4.5.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/e/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/TCP_IP_.dir/homework4.5.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/TCP_IP_.dir/homework4.5.c.o   -c /mnt/e/github/TCP-IP-/homework4.5.c
 
-CMakeFiles/TCP_IP_.dir/3.socket_type_set_protocol.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_IP_.dir/3.socket_type_set_protocol.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/e/github/TCP-IP-/3.socket_type_set_protocol.c > CMakeFiles/TCP_IP_.dir/3.socket_type_set_protocol.c.i
+CMakeFiles/TCP_IP_.dir/homework4.5.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_IP_.dir/homework4.5.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/e/github/TCP-IP-/homework4.5.c > CMakeFiles/TCP_IP_.dir/homework4.5.c.i
 
-CMakeFiles/TCP_IP_.dir/3.socket_type_set_protocol.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_IP_.dir/3.socket_type_set_protocol.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/e/github/TCP-IP-/3.socket_type_set_protocol.c -o CMakeFiles/TCP_IP_.dir/3.socket_type_set_protocol.c.s
-
-CMakeFiles/TCP_IP_.dir/4.tcp_client.c.o: CMakeFiles/TCP_IP_.dir/flags.make
-CMakeFiles/TCP_IP_.dir/4.tcp_client.c.o: ../4.tcp_client.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/e/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/TCP_IP_.dir/4.tcp_client.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/TCP_IP_.dir/4.tcp_client.c.o   -c /mnt/e/github/TCP-IP-/4.tcp_client.c
-
-CMakeFiles/TCP_IP_.dir/4.tcp_client.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_IP_.dir/4.tcp_client.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/e/github/TCP-IP-/4.tcp_client.c > CMakeFiles/TCP_IP_.dir/4.tcp_client.c.i
-
-CMakeFiles/TCP_IP_.dir/4.tcp_client.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_IP_.dir/4.tcp_client.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/e/github/TCP-IP-/4.tcp_client.c -o CMakeFiles/TCP_IP_.dir/4.tcp_client.c.s
-
-CMakeFiles/TCP_IP_.dir/5.endian_conv.c.o: CMakeFiles/TCP_IP_.dir/flags.make
-CMakeFiles/TCP_IP_.dir/5.endian_conv.c.o: ../5.endian_conv.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/e/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/TCP_IP_.dir/5.endian_conv.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/TCP_IP_.dir/5.endian_conv.c.o   -c /mnt/e/github/TCP-IP-/5.endian_conv.c
-
-CMakeFiles/TCP_IP_.dir/5.endian_conv.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_IP_.dir/5.endian_conv.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/e/github/TCP-IP-/5.endian_conv.c > CMakeFiles/TCP_IP_.dir/5.endian_conv.c.i
-
-CMakeFiles/TCP_IP_.dir/5.endian_conv.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_IP_.dir/5.endian_conv.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/e/github/TCP-IP-/5.endian_conv.c -o CMakeFiles/TCP_IP_.dir/5.endian_conv.c.s
-
-CMakeFiles/TCP_IP_.dir/6.inet_addr.c.o: CMakeFiles/TCP_IP_.dir/flags.make
-CMakeFiles/TCP_IP_.dir/6.inet_addr.c.o: ../6.inet_addr.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/e/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/TCP_IP_.dir/6.inet_addr.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/TCP_IP_.dir/6.inet_addr.c.o   -c /mnt/e/github/TCP-IP-/6.inet_addr.c
-
-CMakeFiles/TCP_IP_.dir/6.inet_addr.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_IP_.dir/6.inet_addr.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/e/github/TCP-IP-/6.inet_addr.c > CMakeFiles/TCP_IP_.dir/6.inet_addr.c.i
-
-CMakeFiles/TCP_IP_.dir/6.inet_addr.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_IP_.dir/6.inet_addr.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/e/github/TCP-IP-/6.inet_addr.c -o CMakeFiles/TCP_IP_.dir/6.inet_addr.c.s
-
-CMakeFiles/TCP_IP_.dir/7.inet_aton.c.o: CMakeFiles/TCP_IP_.dir/flags.make
-CMakeFiles/TCP_IP_.dir/7.inet_aton.c.o: ../7.inet_aton.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/e/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/TCP_IP_.dir/7.inet_aton.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/TCP_IP_.dir/7.inet_aton.c.o   -c /mnt/e/github/TCP-IP-/7.inet_aton.c
-
-CMakeFiles/TCP_IP_.dir/7.inet_aton.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_IP_.dir/7.inet_aton.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/e/github/TCP-IP-/7.inet_aton.c > CMakeFiles/TCP_IP_.dir/7.inet_aton.c.i
-
-CMakeFiles/TCP_IP_.dir/7.inet_aton.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_IP_.dir/7.inet_aton.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/e/github/TCP-IP-/7.inet_aton.c -o CMakeFiles/TCP_IP_.dir/7.inet_aton.c.s
-
-CMakeFiles/TCP_IP_.dir/8.inet_ntoa.c.o: CMakeFiles/TCP_IP_.dir/flags.make
-CMakeFiles/TCP_IP_.dir/8.inet_ntoa.c.o: ../8.inet_ntoa.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/e/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/TCP_IP_.dir/8.inet_ntoa.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/TCP_IP_.dir/8.inet_ntoa.c.o   -c /mnt/e/github/TCP-IP-/8.inet_ntoa.c
-
-CMakeFiles/TCP_IP_.dir/8.inet_ntoa.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_IP_.dir/8.inet_ntoa.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/e/github/TCP-IP-/8.inet_ntoa.c > CMakeFiles/TCP_IP_.dir/8.inet_ntoa.c.i
-
-CMakeFiles/TCP_IP_.dir/8.inet_ntoa.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_IP_.dir/8.inet_ntoa.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/e/github/TCP-IP-/8.inet_ntoa.c -o CMakeFiles/TCP_IP_.dir/8.inet_ntoa.c.s
+CMakeFiles/TCP_IP_.dir/homework4.5.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_IP_.dir/homework4.5.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/e/github/TCP-IP-/homework4.5.c -o CMakeFiles/TCP_IP_.dir/homework4.5.c.s
 
 # Object files for target TCP_IP_
 TCP_IP__OBJECTS = \
-"CMakeFiles/TCP_IP_.dir/2.hello_client.c.o" \
-"CMakeFiles/TCP_IP_.dir/homework1.5_copy_file.c.o" \
-"CMakeFiles/TCP_IP_.dir/3.socket_type_set_protocol.c.o" \
-"CMakeFiles/TCP_IP_.dir/4.tcp_client.c.o" \
-"CMakeFiles/TCP_IP_.dir/5.endian_conv.c.o" \
-"CMakeFiles/TCP_IP_.dir/6.inet_addr.c.o" \
-"CMakeFiles/TCP_IP_.dir/7.inet_aton.c.o" \
-"CMakeFiles/TCP_IP_.dir/8.inet_ntoa.c.o"
+"CMakeFiles/TCP_IP_.dir/9.echo_server.c.o" \
+"CMakeFiles/TCP_IP_.dir/10.echo_client.c.o" \
+"CMakeFiles/TCP_IP_.dir/homework4.5.c.o"
 
 # External object files for target TCP_IP_
 TCP_IP__EXTERNAL_OBJECTS =
 
-TCP_IP_: CMakeFiles/TCP_IP_.dir/2.hello_client.c.o
-TCP_IP_: CMakeFiles/TCP_IP_.dir/homework1.5_copy_file.c.o
-TCP_IP_: CMakeFiles/TCP_IP_.dir/3.socket_type_set_protocol.c.o
-TCP_IP_: CMakeFiles/TCP_IP_.dir/4.tcp_client.c.o
-TCP_IP_: CMakeFiles/TCP_IP_.dir/5.endian_conv.c.o
-TCP_IP_: CMakeFiles/TCP_IP_.dir/6.inet_addr.c.o
-TCP_IP_: CMakeFiles/TCP_IP_.dir/7.inet_aton.c.o
-TCP_IP_: CMakeFiles/TCP_IP_.dir/8.inet_ntoa.c.o
+TCP_IP_: CMakeFiles/TCP_IP_.dir/9.echo_server.c.o
+TCP_IP_: CMakeFiles/TCP_IP_.dir/10.echo_client.c.o
+TCP_IP_: CMakeFiles/TCP_IP_.dir/homework4.5.c.o
 TCP_IP_: CMakeFiles/TCP_IP_.dir/build.make
 TCP_IP_: CMakeFiles/TCP_IP_.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/e/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking C executable TCP_IP_"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/e/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking C executable TCP_IP_"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/TCP_IP_.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
