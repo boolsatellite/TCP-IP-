@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/e/github/TCP-IP-
+CMAKE_SOURCE_DIR = /mnt/d/github/TCP-IP-
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/e/github/TCP-IP-/cmake-build-debug
+CMAKE_BINARY_DIR = /mnt/d/github/TCP-IP-/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/e/github/TCP-IP-/cmake-build-debug/CMakeFiles /mnt/e/github/TCP-IP-/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles /mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/e/github/TCP-IP-/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -123,86 +123,32 @@ TCP_IP_/fast:
 	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/build
 .PHONY : TCP_IP_/fast
 
-10.echo_client.o: 10.echo_client.c.o
+homework5.6_transfer_file_server.o: homework5.6_transfer_file_server.c.o
 
-.PHONY : 10.echo_client.o
-
-# target to build an object file
-10.echo_client.c.o:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/10.echo_client.c.o
-.PHONY : 10.echo_client.c.o
-
-10.echo_client.i: 10.echo_client.c.i
-
-.PHONY : 10.echo_client.i
-
-# target to preprocess a source file
-10.echo_client.c.i:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/10.echo_client.c.i
-.PHONY : 10.echo_client.c.i
-
-10.echo_client.s: 10.echo_client.c.s
-
-.PHONY : 10.echo_client.s
-
-# target to generate assembly for a file
-10.echo_client.c.s:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/10.echo_client.c.s
-.PHONY : 10.echo_client.c.s
-
-9.echo_server.o: 9.echo_server.c.o
-
-.PHONY : 9.echo_server.o
+.PHONY : homework5.6_transfer_file_server.o
 
 # target to build an object file
-9.echo_server.c.o:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/9.echo_server.c.o
-.PHONY : 9.echo_server.c.o
+homework5.6_transfer_file_server.c.o:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/homework5.6_transfer_file_server.c.o
+.PHONY : homework5.6_transfer_file_server.c.o
 
-9.echo_server.i: 9.echo_server.c.i
+homework5.6_transfer_file_server.i: homework5.6_transfer_file_server.c.i
 
-.PHONY : 9.echo_server.i
-
-# target to preprocess a source file
-9.echo_server.c.i:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/9.echo_server.c.i
-.PHONY : 9.echo_server.c.i
-
-9.echo_server.s: 9.echo_server.c.s
-
-.PHONY : 9.echo_server.s
-
-# target to generate assembly for a file
-9.echo_server.c.s:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/9.echo_server.c.s
-.PHONY : 9.echo_server.c.s
-
-homework4.5.o: homework4.5.c.o
-
-.PHONY : homework4.5.o
-
-# target to build an object file
-homework4.5.c.o:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/homework4.5.c.o
-.PHONY : homework4.5.c.o
-
-homework4.5.i: homework4.5.c.i
-
-.PHONY : homework4.5.i
+.PHONY : homework5.6_transfer_file_server.i
 
 # target to preprocess a source file
-homework4.5.c.i:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/homework4.5.c.i
-.PHONY : homework4.5.c.i
+homework5.6_transfer_file_server.c.i:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/homework5.6_transfer_file_server.c.i
+.PHONY : homework5.6_transfer_file_server.c.i
 
-homework4.5.s: homework4.5.c.s
+homework5.6_transfer_file_server.s: homework5.6_transfer_file_server.c.s
 
-.PHONY : homework4.5.s
+.PHONY : homework5.6_transfer_file_server.s
 
 # target to generate assembly for a file
-homework4.5.c.s:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/homework4.5.c.s
-.PHONY : homework4.5.c.s
+homework5.6_transfer_file_server.c.s:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/homework5.6_transfer_file_server.c.s
+.PHONY : homework5.6_transfer_file_server.c.s
 
 # Help Target
 help:
@@ -213,15 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... TCP_IP_"
-	@echo "... 10.echo_client.o"
-	@echo "... 10.echo_client.i"
-	@echo "... 10.echo_client.s"
-	@echo "... 9.echo_server.o"
-	@echo "... 9.echo_server.i"
-	@echo "... 9.echo_server.s"
-	@echo "... homework4.5.o"
-	@echo "... homework4.5.i"
-	@echo "... homework4.5.s"
+	@echo "... homework5.6_transfer_file_server.o"
+	@echo "... homework5.6_transfer_file_server.i"
+	@echo "... homework5.6_transfer_file_server.s"
 .PHONY : help
 
 

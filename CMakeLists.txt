@@ -4,4 +4,4 @@ project(TCP_IP_ C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(TCP_IP_
-         9.echo_server.c 10.echo_client.c homework4.5.c chapter_5.c)
+        homework5.6_transfer_file_server.c)

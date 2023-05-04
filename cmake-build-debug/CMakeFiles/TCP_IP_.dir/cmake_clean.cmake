@@ -1,7 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/TCP_IP_.dir/10.echo_client.c.o"
-  "CMakeFiles/TCP_IP_.dir/9.echo_server.c.o"
-  "CMakeFiles/TCP_IP_.dir/homework4.5.c.o"
+  "CMakeFiles/TCP_IP_.dir/homework5.6_transfer_file_server.c.o"
   "TCP_IP_"
   "TCP_IP_.pdb"
 )

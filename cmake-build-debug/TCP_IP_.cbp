@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/mnt/e/github/TCP-IP-/cmake-build-debug"/>
+				<Option working_dir="/mnt/d/github/TCP-IP-/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j16 -f &quot;/mnt/e/github/TCP-IP-/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/e/github/TCP-IP-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/e/github/TCP-IP-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/e/github/TCP-IP-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/d/github/TCP-IP-/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/d/github/TCP-IP-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/d/github/TCP-IP-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/d/github/TCP-IP-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/mnt/e/github/TCP-IP-/cmake-build-debug"/>
+				<Option working_dir="/mnt/d/github/TCP-IP-/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j16 -f &quot;/mnt/e/github/TCP-IP-/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/e/github/TCP-IP-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/e/github/TCP-IP-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/e/github/TCP-IP-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/d/github/TCP-IP-/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/d/github/TCP-IP-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/d/github/TCP-IP-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/d/github/TCP-IP-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/mnt/e/github/TCP-IP-/cmake-build-debug"/>
+				<Option working_dir="/mnt/d/github/TCP-IP-/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j16 -f &quot;/mnt/e/github/TCP-IP-/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/e/github/TCP-IP-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/e/github/TCP-IP-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/e/github/TCP-IP-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/d/github/TCP-IP-/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/d/github/TCP-IP-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/d/github/TCP-IP-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/d/github/TCP-IP-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="TCP_IP_">
-				<Option output="/mnt/e/github/TCP-IP-/cmake-build-debug/TCP_IP_" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/mnt/e/github/TCP-IP-/cmake-build-debug"/>
+				<Option output="/mnt/d/github/TCP-IP-/cmake-build-debug/TCP_IP_" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/github/TCP-IP-/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -50,15 +50,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j16 -f &quot;/mnt/e/github/TCP-IP-/cmake-build-debug/Makefile&quot;  VERBOSE=1 TCP_IP_"/>
-					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/e/github/TCP-IP-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/e/github/TCP-IP-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/e/github/TCP-IP-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/d/github/TCP-IP-/cmake-build-debug/Makefile&quot;  VERBOSE=1 TCP_IP_"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/d/github/TCP-IP-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/d/github/TCP-IP-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/d/github/TCP-IP-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="TCP_IP_/fast">
-				<Option output="/mnt/e/github/TCP-IP-/cmake-build-debug/TCP_IP_" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/mnt/e/github/TCP-IP-/cmake-build-debug"/>
+				<Option output="/mnt/d/github/TCP-IP-/cmake-build-debug/TCP_IP_" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/github/TCP-IP-/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -69,23 +69,17 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j16 -f &quot;/mnt/e/github/TCP-IP-/cmake-build-debug/Makefile&quot;  VERBOSE=1 TCP_IP_/fast"/>
-					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/e/github/TCP-IP-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/e/github/TCP-IP-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/e/github/TCP-IP-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j16 -f &quot;/mnt/d/github/TCP-IP-/cmake-build-debug/Makefile&quot;  VERBOSE=1 TCP_IP_/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/mnt/d/github/TCP-IP-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/mnt/d/github/TCP-IP-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/mnt/d/github/TCP-IP-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/mnt/e/github/TCP-IP-/10.echo_client.c">
+		<Unit filename="/mnt/d/github/TCP-IP-/homework5.6_transfer_file_server.c">
 			<Option target="TCP_IP_"/>
 		</Unit>
-		<Unit filename="/mnt/e/github/TCP-IP-/9.echo_server.c">
-			<Option target="TCP_IP_"/>
-		</Unit>
-		<Unit filename="/mnt/e/github/TCP-IP-/homework4.5.c">
-			<Option target="TCP_IP_"/>
-		</Unit>
-		<Unit filename="/mnt/e/github/TCP-IP-/CMakeLists.txt">
+		<Unit filename="/mnt/d/github/TCP-IP-/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
