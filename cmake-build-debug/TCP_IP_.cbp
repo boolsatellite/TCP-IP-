@@ -76,7 +76,19 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/mnt/d/github/TCP-IP-/homework5.6_transfer_file_server.c">
+		<Unit filename="/mnt/d/github/TCP-IP-/14.uecho_server.c">
+			<Option target="TCP_IP_"/>
+		</Unit>
+		<Unit filename="/mnt/d/github/TCP-IP-/15.uecho_clent.c">
+			<Option target="TCP_IP_"/>
+		</Unit>
+		<Unit filename="/mnt/d/github/TCP-IP-/16.bound_host1.c">
+			<Option target="TCP_IP_"/>
+		</Unit>
+		<Unit filename="/mnt/d/github/TCP-IP-/17.bound_host2.c">
+			<Option target="TCP_IP_"/>
+		</Unit>
+		<Unit filename="/mnt/d/github/TCP-IP-/chapter_6.c">
 			<Option target="TCP_IP_"/>
 		</Unit>
 		<Unit filename="/mnt/d/github/TCP-IP-/CMakeLists.txt">

@@ -4,7 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/mnt/d/github/TCP-IP-/homework5.6_transfer_file_server.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/homework5.6_transfer_file_server.c.o"
+  "/mnt/d/github/TCP-IP-/14.uecho_server.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/14.uecho_server.c.o"
+  "/mnt/d/github/TCP-IP-/15.uecho_clent.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/15.uecho_clent.c.o"
+  "/mnt/d/github/TCP-IP-/16.bound_host1.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/16.bound_host1.c.o"
+  "/mnt/d/github/TCP-IP-/17.bound_host2.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/17.bound_host2.c.o"
+  "/mnt/d/github/TCP-IP-/chapter_6.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/chapter_6.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
