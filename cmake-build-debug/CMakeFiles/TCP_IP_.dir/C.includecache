@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/github/TCP-IP-/19.file_client.c
+stdio.h
+/mnt/d/github/TCP-IP-/stdio.h
+stdlib.h
+/mnt/d/github/TCP-IP-/stdlib.h
+string.h
+/mnt/d/github/TCP-IP-/string.h
+unistd.h
+/mnt/d/github/TCP-IP-/unistd.h
+arpa/inet.h
+/mnt/d/github/TCP-IP-/arpa/inet.h
+sys/socket.h
+/mnt/d/github/TCP-IP-/sys/socket.h
+

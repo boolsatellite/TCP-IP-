@@ -123,140 +123,32 @@ TCP_IP_/fast:
 	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/build
 .PHONY : TCP_IP_/fast
 
-14.uecho_server.o: 14.uecho_server.c.o
+19.file_client.o: 19.file_client.c.o
 
-.PHONY : 14.uecho_server.o
-
-# target to build an object file
-14.uecho_server.c.o:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/14.uecho_server.c.o
-.PHONY : 14.uecho_server.c.o
-
-14.uecho_server.i: 14.uecho_server.c.i
-
-.PHONY : 14.uecho_server.i
-
-# target to preprocess a source file
-14.uecho_server.c.i:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/14.uecho_server.c.i
-.PHONY : 14.uecho_server.c.i
-
-14.uecho_server.s: 14.uecho_server.c.s
-
-.PHONY : 14.uecho_server.s
-
-# target to generate assembly for a file
-14.uecho_server.c.s:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/14.uecho_server.c.s
-.PHONY : 14.uecho_server.c.s
-
-15.uecho_clent.o: 15.uecho_clent.c.o
-
-.PHONY : 15.uecho_clent.o
+.PHONY : 19.file_client.o
 
 # target to build an object file
-15.uecho_clent.c.o:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/15.uecho_clent.c.o
-.PHONY : 15.uecho_clent.c.o
+19.file_client.c.o:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/19.file_client.c.o
+.PHONY : 19.file_client.c.o
 
-15.uecho_clent.i: 15.uecho_clent.c.i
+19.file_client.i: 19.file_client.c.i
 
-.PHONY : 15.uecho_clent.i
-
-# target to preprocess a source file
-15.uecho_clent.c.i:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/15.uecho_clent.c.i
-.PHONY : 15.uecho_clent.c.i
-
-15.uecho_clent.s: 15.uecho_clent.c.s
-
-.PHONY : 15.uecho_clent.s
-
-# target to generate assembly for a file
-15.uecho_clent.c.s:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/15.uecho_clent.c.s
-.PHONY : 15.uecho_clent.c.s
-
-16.bound_host1.o: 16.bound_host1.c.o
-
-.PHONY : 16.bound_host1.o
-
-# target to build an object file
-16.bound_host1.c.o:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/16.bound_host1.c.o
-.PHONY : 16.bound_host1.c.o
-
-16.bound_host1.i: 16.bound_host1.c.i
-
-.PHONY : 16.bound_host1.i
+.PHONY : 19.file_client.i
 
 # target to preprocess a source file
-16.bound_host1.c.i:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/16.bound_host1.c.i
-.PHONY : 16.bound_host1.c.i
+19.file_client.c.i:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/19.file_client.c.i
+.PHONY : 19.file_client.c.i
 
-16.bound_host1.s: 16.bound_host1.c.s
+19.file_client.s: 19.file_client.c.s
 
-.PHONY : 16.bound_host1.s
-
-# target to generate assembly for a file
-16.bound_host1.c.s:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/16.bound_host1.c.s
-.PHONY : 16.bound_host1.c.s
-
-17.bound_host2.o: 17.bound_host2.c.o
-
-.PHONY : 17.bound_host2.o
-
-# target to build an object file
-17.bound_host2.c.o:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/17.bound_host2.c.o
-.PHONY : 17.bound_host2.c.o
-
-17.bound_host2.i: 17.bound_host2.c.i
-
-.PHONY : 17.bound_host2.i
-
-# target to preprocess a source file
-17.bound_host2.c.i:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/17.bound_host2.c.i
-.PHONY : 17.bound_host2.c.i
-
-17.bound_host2.s: 17.bound_host2.c.s
-
-.PHONY : 17.bound_host2.s
+.PHONY : 19.file_client.s
 
 # target to generate assembly for a file
-17.bound_host2.c.s:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/17.bound_host2.c.s
-.PHONY : 17.bound_host2.c.s
-
-chapter_6.o: chapter_6.c.o
-
-.PHONY : chapter_6.o
-
-# target to build an object file
-chapter_6.c.o:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/chapter_6.c.o
-.PHONY : chapter_6.c.o
-
-chapter_6.i: chapter_6.c.i
-
-.PHONY : chapter_6.i
-
-# target to preprocess a source file
-chapter_6.c.i:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/chapter_6.c.i
-.PHONY : chapter_6.c.i
-
-chapter_6.s: chapter_6.c.s
-
-.PHONY : chapter_6.s
-
-# target to generate assembly for a file
-chapter_6.c.s:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/chapter_6.c.s
-.PHONY : chapter_6.c.s
+19.file_client.c.s:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/19.file_client.c.s
+.PHONY : 19.file_client.c.s
 
 # Help Target
 help:
@@ -267,21 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... TCP_IP_"
-	@echo "... 14.uecho_server.o"
-	@echo "... 14.uecho_server.i"
-	@echo "... 14.uecho_server.s"
-	@echo "... 15.uecho_clent.o"
-	@echo "... 15.uecho_clent.i"
-	@echo "... 15.uecho_clent.s"
-	@echo "... 16.bound_host1.o"
-	@echo "... 16.bound_host1.i"
-	@echo "... 16.bound_host1.s"
-	@echo "... 17.bound_host2.o"
-	@echo "... 17.bound_host2.i"
-	@echo "... 17.bound_host2.s"
-	@echo "... chapter_6.o"
-	@echo "... chapter_6.i"
-	@echo "... chapter_6.s"
+	@echo "... 19.file_client.o"
+	@echo "... 19.file_client.i"
+	@echo "... 19.file_client.s"
 .PHONY : help
 
 
