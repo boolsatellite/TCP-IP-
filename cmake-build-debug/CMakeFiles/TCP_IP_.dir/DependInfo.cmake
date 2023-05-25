@@ -5,6 +5,11 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
   "/mnt/d/github/TCP-IP-/21.gethostbyaddr.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/21.gethostbyaddr.c.o"
+  "/mnt/d/github/TCP-IP-/22.sock_type.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/22.sock_type.c.o"
+  "/mnt/d/github/TCP-IP-/23.get_buf.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/23.get_buf.c.o"
+  "/mnt/d/github/TCP-IP-/24.set_buf.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/24.set_buf.c.o"
+  "/mnt/d/github/TCP-IP-/25.reuseadr_eserver.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/25.reuseadr_eserver.c.o"
+  "/mnt/d/github/TCP-IP-/chapter_9.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/chapter_9.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

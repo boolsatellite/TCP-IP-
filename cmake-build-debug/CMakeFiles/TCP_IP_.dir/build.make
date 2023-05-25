@@ -70,17 +70,92 @@ CMakeFiles/TCP_IP_.dir/21.gethostbyaddr.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_IP_.dir/21.gethostbyaddr.c.s"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/d/github/TCP-IP-/21.gethostbyaddr.c -o CMakeFiles/TCP_IP_.dir/21.gethostbyaddr.c.s
 
+CMakeFiles/TCP_IP_.dir/chapter_9.c.o: CMakeFiles/TCP_IP_.dir/flags.make
+CMakeFiles/TCP_IP_.dir/chapter_9.c.o: ../chapter_9.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/TCP_IP_.dir/chapter_9.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/TCP_IP_.dir/chapter_9.c.o   -c /mnt/d/github/TCP-IP-/chapter_9.c
+
+CMakeFiles/TCP_IP_.dir/chapter_9.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_IP_.dir/chapter_9.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/d/github/TCP-IP-/chapter_9.c > CMakeFiles/TCP_IP_.dir/chapter_9.c.i
+
+CMakeFiles/TCP_IP_.dir/chapter_9.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_IP_.dir/chapter_9.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/d/github/TCP-IP-/chapter_9.c -o CMakeFiles/TCP_IP_.dir/chapter_9.c.s
+
+CMakeFiles/TCP_IP_.dir/22.sock_type.c.o: CMakeFiles/TCP_IP_.dir/flags.make
+CMakeFiles/TCP_IP_.dir/22.sock_type.c.o: ../22.sock_type.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/TCP_IP_.dir/22.sock_type.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/TCP_IP_.dir/22.sock_type.c.o   -c /mnt/d/github/TCP-IP-/22.sock_type.c
+
+CMakeFiles/TCP_IP_.dir/22.sock_type.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_IP_.dir/22.sock_type.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/d/github/TCP-IP-/22.sock_type.c > CMakeFiles/TCP_IP_.dir/22.sock_type.c.i
+
+CMakeFiles/TCP_IP_.dir/22.sock_type.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_IP_.dir/22.sock_type.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/d/github/TCP-IP-/22.sock_type.c -o CMakeFiles/TCP_IP_.dir/22.sock_type.c.s
+
+CMakeFiles/TCP_IP_.dir/23.get_buf.c.o: CMakeFiles/TCP_IP_.dir/flags.make
+CMakeFiles/TCP_IP_.dir/23.get_buf.c.o: ../23.get_buf.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/TCP_IP_.dir/23.get_buf.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/TCP_IP_.dir/23.get_buf.c.o   -c /mnt/d/github/TCP-IP-/23.get_buf.c
+
+CMakeFiles/TCP_IP_.dir/23.get_buf.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_IP_.dir/23.get_buf.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/d/github/TCP-IP-/23.get_buf.c > CMakeFiles/TCP_IP_.dir/23.get_buf.c.i
+
+CMakeFiles/TCP_IP_.dir/23.get_buf.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_IP_.dir/23.get_buf.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/d/github/TCP-IP-/23.get_buf.c -o CMakeFiles/TCP_IP_.dir/23.get_buf.c.s
+
+CMakeFiles/TCP_IP_.dir/24.set_buf.c.o: CMakeFiles/TCP_IP_.dir/flags.make
+CMakeFiles/TCP_IP_.dir/24.set_buf.c.o: ../24.set_buf.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/TCP_IP_.dir/24.set_buf.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/TCP_IP_.dir/24.set_buf.c.o   -c /mnt/d/github/TCP-IP-/24.set_buf.c
+
+CMakeFiles/TCP_IP_.dir/24.set_buf.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_IP_.dir/24.set_buf.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/d/github/TCP-IP-/24.set_buf.c > CMakeFiles/TCP_IP_.dir/24.set_buf.c.i
+
+CMakeFiles/TCP_IP_.dir/24.set_buf.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_IP_.dir/24.set_buf.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/d/github/TCP-IP-/24.set_buf.c -o CMakeFiles/TCP_IP_.dir/24.set_buf.c.s
+
+CMakeFiles/TCP_IP_.dir/25.reuseadr_eserver.c.o: CMakeFiles/TCP_IP_.dir/flags.make
+CMakeFiles/TCP_IP_.dir/25.reuseadr_eserver.c.o: ../25.reuseadr_eserver.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/TCP_IP_.dir/25.reuseadr_eserver.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/TCP_IP_.dir/25.reuseadr_eserver.c.o   -c /mnt/d/github/TCP-IP-/25.reuseadr_eserver.c
+
+CMakeFiles/TCP_IP_.dir/25.reuseadr_eserver.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_IP_.dir/25.reuseadr_eserver.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/d/github/TCP-IP-/25.reuseadr_eserver.c > CMakeFiles/TCP_IP_.dir/25.reuseadr_eserver.c.i
+
+CMakeFiles/TCP_IP_.dir/25.reuseadr_eserver.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_IP_.dir/25.reuseadr_eserver.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/d/github/TCP-IP-/25.reuseadr_eserver.c -o CMakeFiles/TCP_IP_.dir/25.reuseadr_eserver.c.s
+
 # Object files for target TCP_IP_
 TCP_IP__OBJECTS = \
-"CMakeFiles/TCP_IP_.dir/21.gethostbyaddr.c.o"
+"CMakeFiles/TCP_IP_.dir/21.gethostbyaddr.c.o" \
+"CMakeFiles/TCP_IP_.dir/chapter_9.c.o" \
+"CMakeFiles/TCP_IP_.dir/22.sock_type.c.o" \
+"CMakeFiles/TCP_IP_.dir/23.get_buf.c.o" \
+"CMakeFiles/TCP_IP_.dir/24.set_buf.c.o" \
+"CMakeFiles/TCP_IP_.dir/25.reuseadr_eserver.c.o"
 
 # External object files for target TCP_IP_
 TCP_IP__EXTERNAL_OBJECTS =
 
 TCP_IP_: CMakeFiles/TCP_IP_.dir/21.gethostbyaddr.c.o
+TCP_IP_: CMakeFiles/TCP_IP_.dir/chapter_9.c.o
+TCP_IP_: CMakeFiles/TCP_IP_.dir/22.sock_type.c.o
+TCP_IP_: CMakeFiles/TCP_IP_.dir/23.get_buf.c.o
+TCP_IP_: CMakeFiles/TCP_IP_.dir/24.set_buf.c.o
+TCP_IP_: CMakeFiles/TCP_IP_.dir/25.reuseadr_eserver.c.o
 TCP_IP_: CMakeFiles/TCP_IP_.dir/build.make
 TCP_IP_: CMakeFiles/TCP_IP_.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable TCP_IP_"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking C executable TCP_IP_"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/TCP_IP_.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

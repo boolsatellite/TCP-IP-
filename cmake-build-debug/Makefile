@@ -150,6 +150,141 @@ TCP_IP_/fast:
 	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/21.gethostbyaddr.c.s
 .PHONY : 21.gethostbyaddr.c.s
 
+22.sock_type.o: 22.sock_type.c.o
+
+.PHONY : 22.sock_type.o
+
+# target to build an object file
+22.sock_type.c.o:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/22.sock_type.c.o
+.PHONY : 22.sock_type.c.o
+
+22.sock_type.i: 22.sock_type.c.i
+
+.PHONY : 22.sock_type.i
+
+# target to preprocess a source file
+22.sock_type.c.i:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/22.sock_type.c.i
+.PHONY : 22.sock_type.c.i
+
+22.sock_type.s: 22.sock_type.c.s
+
+.PHONY : 22.sock_type.s
+
+# target to generate assembly for a file
+22.sock_type.c.s:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/22.sock_type.c.s
+.PHONY : 22.sock_type.c.s
+
+23.get_buf.o: 23.get_buf.c.o
+
+.PHONY : 23.get_buf.o
+
+# target to build an object file
+23.get_buf.c.o:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/23.get_buf.c.o
+.PHONY : 23.get_buf.c.o
+
+23.get_buf.i: 23.get_buf.c.i
+
+.PHONY : 23.get_buf.i
+
+# target to preprocess a source file
+23.get_buf.c.i:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/23.get_buf.c.i
+.PHONY : 23.get_buf.c.i
+
+23.get_buf.s: 23.get_buf.c.s
+
+.PHONY : 23.get_buf.s
+
+# target to generate assembly for a file
+23.get_buf.c.s:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/23.get_buf.c.s
+.PHONY : 23.get_buf.c.s
+
+24.set_buf.o: 24.set_buf.c.o
+
+.PHONY : 24.set_buf.o
+
+# target to build an object file
+24.set_buf.c.o:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/24.set_buf.c.o
+.PHONY : 24.set_buf.c.o
+
+24.set_buf.i: 24.set_buf.c.i
+
+.PHONY : 24.set_buf.i
+
+# target to preprocess a source file
+24.set_buf.c.i:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/24.set_buf.c.i
+.PHONY : 24.set_buf.c.i
+
+24.set_buf.s: 24.set_buf.c.s
+
+.PHONY : 24.set_buf.s
+
+# target to generate assembly for a file
+24.set_buf.c.s:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/24.set_buf.c.s
+.PHONY : 24.set_buf.c.s
+
+25.reuseadr_eserver.o: 25.reuseadr_eserver.c.o
+
+.PHONY : 25.reuseadr_eserver.o
+
+# target to build an object file
+25.reuseadr_eserver.c.o:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/25.reuseadr_eserver.c.o
+.PHONY : 25.reuseadr_eserver.c.o
+
+25.reuseadr_eserver.i: 25.reuseadr_eserver.c.i
+
+.PHONY : 25.reuseadr_eserver.i
+
+# target to preprocess a source file
+25.reuseadr_eserver.c.i:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/25.reuseadr_eserver.c.i
+.PHONY : 25.reuseadr_eserver.c.i
+
+25.reuseadr_eserver.s: 25.reuseadr_eserver.c.s
+
+.PHONY : 25.reuseadr_eserver.s
+
+# target to generate assembly for a file
+25.reuseadr_eserver.c.s:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/25.reuseadr_eserver.c.s
+.PHONY : 25.reuseadr_eserver.c.s
+
+chapter_9.o: chapter_9.c.o
+
+.PHONY : chapter_9.o
+
+# target to build an object file
+chapter_9.c.o:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/chapter_9.c.o
+.PHONY : chapter_9.c.o
+
+chapter_9.i: chapter_9.c.i
+
+.PHONY : chapter_9.i
+
+# target to preprocess a source file
+chapter_9.c.i:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/chapter_9.c.i
+.PHONY : chapter_9.c.i
+
+chapter_9.s: chapter_9.c.s
+
+.PHONY : chapter_9.s
+
+# target to generate assembly for a file
+chapter_9.c.s:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/chapter_9.c.s
+.PHONY : chapter_9.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -162,6 +297,21 @@ help:
 	@echo "... 21.gethostbyaddr.o"
 	@echo "... 21.gethostbyaddr.i"
 	@echo "... 21.gethostbyaddr.s"
+	@echo "... 22.sock_type.o"
+	@echo "... 22.sock_type.i"
+	@echo "... 22.sock_type.s"
+	@echo "... 23.get_buf.o"
+	@echo "... 23.get_buf.i"
+	@echo "... 23.get_buf.s"
+	@echo "... 24.set_buf.o"
+	@echo "... 24.set_buf.i"
+	@echo "... 24.set_buf.s"
+	@echo "... 25.reuseadr_eserver.o"
+	@echo "... 25.reuseadr_eserver.i"
+	@echo "... 25.reuseadr_eserver.s"
+	@echo "... chapter_9.o"
+	@echo "... chapter_9.i"
+	@echo "... chapter_9.s"
 .PHONY : help
 
 

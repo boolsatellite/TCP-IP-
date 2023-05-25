@@ -44,7 +44,12 @@
 			"language" : "C",
 			"sourceIndexes" : 
 			[
-				0
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
 			]
 		}
 	],
@@ -77,7 +82,12 @@
 			"name" : "Source Files",
 			"sourceIndexes" : 
 			[
-				0
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
 			]
 		}
 	],
@@ -87,6 +97,36 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "21.gethostbyaddr.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "chapter_9.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "22.sock_type.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "23.get_buf.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "24.set_buf.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "25.reuseadr_eserver.c",
 			"sourceGroupIndex" : 0
 		}
 	],

@@ -79,6 +79,21 @@
 		<Unit filename="/mnt/d/github/TCP-IP-/21.gethostbyaddr.c">
 			<Option target="TCP_IP_"/>
 		</Unit>
+		<Unit filename="/mnt/d/github/TCP-IP-/22.sock_type.c">
+			<Option target="TCP_IP_"/>
+		</Unit>
+		<Unit filename="/mnt/d/github/TCP-IP-/23.get_buf.c">
+			<Option target="TCP_IP_"/>
+		</Unit>
+		<Unit filename="/mnt/d/github/TCP-IP-/24.set_buf.c">
+			<Option target="TCP_IP_"/>
+		</Unit>
+		<Unit filename="/mnt/d/github/TCP-IP-/25.reuseadr_eserver.c">
+			<Option target="TCP_IP_"/>
+		</Unit>
+		<Unit filename="/mnt/d/github/TCP-IP-/chapter_9.c">
+			<Option target="TCP_IP_"/>
+		</Unit>
 		<Unit filename="/mnt/d/github/TCP-IP-/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
