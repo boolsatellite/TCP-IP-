@@ -16,5 +16,6 @@ transport               传输
 sliding window          滑动窗口
 full duplex             全双工
 synchronization         同步
+none                    没有
 
 ```

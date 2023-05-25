@@ -123,32 +123,32 @@ TCP_IP_/fast:
 	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/build
 .PHONY : TCP_IP_/fast
 
-19.file_client.o: 19.file_client.c.o
+21.gethostbyaddr.o: 21.gethostbyaddr.c.o
 
-.PHONY : 19.file_client.o
+.PHONY : 21.gethostbyaddr.o
 
 # target to build an object file
-19.file_client.c.o:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/19.file_client.c.o
-.PHONY : 19.file_client.c.o
+21.gethostbyaddr.c.o:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/21.gethostbyaddr.c.o
+.PHONY : 21.gethostbyaddr.c.o
 
-19.file_client.i: 19.file_client.c.i
+21.gethostbyaddr.i: 21.gethostbyaddr.c.i
 
-.PHONY : 19.file_client.i
+.PHONY : 21.gethostbyaddr.i
 
 # target to preprocess a source file
-19.file_client.c.i:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/19.file_client.c.i
-.PHONY : 19.file_client.c.i
+21.gethostbyaddr.c.i:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/21.gethostbyaddr.c.i
+.PHONY : 21.gethostbyaddr.c.i
 
-19.file_client.s: 19.file_client.c.s
+21.gethostbyaddr.s: 21.gethostbyaddr.c.s
 
-.PHONY : 19.file_client.s
+.PHONY : 21.gethostbyaddr.s
 
 # target to generate assembly for a file
-19.file_client.c.s:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/19.file_client.c.s
-.PHONY : 19.file_client.c.s
+21.gethostbyaddr.c.s:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/21.gethostbyaddr.c.s
+.PHONY : 21.gethostbyaddr.c.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... TCP_IP_"
-	@echo "... 19.file_client.o"
-	@echo "... 19.file_client.i"
-	@echo "... 19.file_client.s"
+	@echo "... 21.gethostbyaddr.o"
+	@echo "... 21.gethostbyaddr.i"
+	@echo "... 21.gethostbyaddr.s"
 .PHONY : help
 
 

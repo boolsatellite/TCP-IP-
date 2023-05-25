@@ -4,7 +4,7 @@
 
 
 /*
- int inet_aton(const char* string , struct in_arrd * addr);
+ int inet_aton(const char* string , struct in_addr * addr);
  string：需要转换的IP地址信息的字符串地址
  addr：将保存转换结果的 in_addr 结构
  成功返回 1 失败返回 0

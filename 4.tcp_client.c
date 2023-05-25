@@ -11,7 +11,6 @@
 
 void error_handling(char *message);
 
-
 //此程序为了证明IPPROTO的数据没有边界，即write和read的次数可以不相等
 int main(int argc,char* argv[])
 {

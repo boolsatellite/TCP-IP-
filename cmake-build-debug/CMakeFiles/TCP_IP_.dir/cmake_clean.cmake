@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/TCP_IP_.dir/19.file_client.c.o"
+  "CMakeFiles/TCP_IP_.dir/21.gethostbyaddr.c.o"
   "TCP_IP_"
   "TCP_IP_.pdb"
 )
