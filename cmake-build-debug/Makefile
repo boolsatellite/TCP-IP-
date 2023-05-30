@@ -123,86 +123,59 @@ TCP_IP_/fast:
 	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/build
 .PHONY : TCP_IP_/fast
 
-30.remove_zombie.o: 30.remove_zombie.c.o
+33.pipe.o: 33.pipe.c.o
 
-.PHONY : 30.remove_zombie.o
-
-# target to build an object file
-30.remove_zombie.c.o:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/30.remove_zombie.c.o
-.PHONY : 30.remove_zombie.c.o
-
-30.remove_zombie.i: 30.remove_zombie.c.i
-
-.PHONY : 30.remove_zombie.i
-
-# target to preprocess a source file
-30.remove_zombie.c.i:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/30.remove_zombie.c.i
-.PHONY : 30.remove_zombie.c.i
-
-30.remove_zombie.s: 30.remove_zombie.c.s
-
-.PHONY : 30.remove_zombie.s
-
-# target to generate assembly for a file
-30.remove_zombie.c.s:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/30.remove_zombie.c.s
-.PHONY : 30.remove_zombie.c.s
-
-31.echo_mpserv.o: 31.echo_mpserv.c.o
-
-.PHONY : 31.echo_mpserv.o
+.PHONY : 33.pipe.o
 
 # target to build an object file
-31.echo_mpserv.c.o:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/31.echo_mpserv.c.o
-.PHONY : 31.echo_mpserv.c.o
+33.pipe.c.o:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/33.pipe.c.o
+.PHONY : 33.pipe.c.o
 
-31.echo_mpserv.i: 31.echo_mpserv.c.i
+33.pipe.i: 33.pipe.c.i
 
-.PHONY : 31.echo_mpserv.i
+.PHONY : 33.pipe.i
 
 # target to preprocess a source file
-31.echo_mpserv.c.i:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/31.echo_mpserv.c.i
-.PHONY : 31.echo_mpserv.c.i
+33.pipe.c.i:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/33.pipe.c.i
+.PHONY : 33.pipe.c.i
 
-31.echo_mpserv.s: 31.echo_mpserv.c.s
+33.pipe.s: 33.pipe.c.s
 
-.PHONY : 31.echo_mpserv.s
+.PHONY : 33.pipe.s
 
 # target to generate assembly for a file
-31.echo_mpserv.c.s:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/31.echo_mpserv.c.s
-.PHONY : 31.echo_mpserv.c.s
+33.pipe.c.s:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/33.pipe.c.s
+.PHONY : 33.pipe.c.s
 
-32.echo_mpclient.o: 32.echo_mpclient.c.o
+34.echo_stroreserv.o: 34.echo_stroreserv.c.o
 
-.PHONY : 32.echo_mpclient.o
+.PHONY : 34.echo_stroreserv.o
 
 # target to build an object file
-32.echo_mpclient.c.o:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/32.echo_mpclient.c.o
-.PHONY : 32.echo_mpclient.c.o
+34.echo_stroreserv.c.o:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/34.echo_stroreserv.c.o
+.PHONY : 34.echo_stroreserv.c.o
 
-32.echo_mpclient.i: 32.echo_mpclient.c.i
+34.echo_stroreserv.i: 34.echo_stroreserv.c.i
 
-.PHONY : 32.echo_mpclient.i
+.PHONY : 34.echo_stroreserv.i
 
 # target to preprocess a source file
-32.echo_mpclient.c.i:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/32.echo_mpclient.c.i
-.PHONY : 32.echo_mpclient.c.i
+34.echo_stroreserv.c.i:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/34.echo_stroreserv.c.i
+.PHONY : 34.echo_stroreserv.c.i
 
-32.echo_mpclient.s: 32.echo_mpclient.c.s
+34.echo_stroreserv.s: 34.echo_stroreserv.c.s
 
-.PHONY : 32.echo_mpclient.s
+.PHONY : 34.echo_stroreserv.s
 
 # target to generate assembly for a file
-32.echo_mpclient.c.s:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/32.echo_mpclient.c.s
-.PHONY : 32.echo_mpclient.c.s
+34.echo_stroreserv.c.s:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/34.echo_stroreserv.c.s
+.PHONY : 34.echo_stroreserv.c.s
 
 # Help Target
 help:
@@ -213,15 +186,12 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... TCP_IP_"
-	@echo "... 30.remove_zombie.o"
-	@echo "... 30.remove_zombie.i"
-	@echo "... 30.remove_zombie.s"
-	@echo "... 31.echo_mpserv.o"
-	@echo "... 31.echo_mpserv.i"
-	@echo "... 31.echo_mpserv.s"
-	@echo "... 32.echo_mpclient.o"
-	@echo "... 32.echo_mpclient.i"
-	@echo "... 32.echo_mpclient.s"
+	@echo "... 33.pipe.o"
+	@echo "... 33.pipe.i"
+	@echo "... 33.pipe.s"
+	@echo "... 34.echo_stroreserv.o"
+	@echo "... 34.echo_stroreserv.i"
+	@echo "... 34.echo_stroreserv.s"
 .PHONY : help
 
 

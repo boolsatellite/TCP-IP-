@@ -76,13 +76,10 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/mnt/d/github/TCP-IP-/30.remove_zombie.c">
+		<Unit filename="/mnt/d/github/TCP-IP-/33.pipe.c">
 			<Option target="TCP_IP_"/>
 		</Unit>
-		<Unit filename="/mnt/d/github/TCP-IP-/31.echo_mpserv.c">
-			<Option target="TCP_IP_"/>
-		</Unit>
-		<Unit filename="/mnt/d/github/TCP-IP-/32.echo_mpclient.c">
+		<Unit filename="/mnt/d/github/TCP-IP-/34.echo_stroreserv.c">
 			<Option target="TCP_IP_"/>
 		</Unit>
 		<Unit filename="/mnt/d/github/TCP-IP-/CMakeLists.txt">

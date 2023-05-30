@@ -1,1 +1,1 @@
-/usr/bin/cc -g   CMakeFiles/TCP_IP_.dir/30.remove_zombie.c.o CMakeFiles/TCP_IP_.dir/31.echo_mpserv.c.o CMakeFiles/TCP_IP_.dir/32.echo_mpclient.c.o  -o TCP_IP_ 
+/usr/bin/cc -g   CMakeFiles/TCP_IP_.dir/33.pipe.c.o CMakeFiles/TCP_IP_.dir/34.echo_stroreserv.c.o  -o TCP_IP_ 

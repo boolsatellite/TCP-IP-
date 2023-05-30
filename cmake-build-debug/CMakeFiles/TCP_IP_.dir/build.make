@@ -57,60 +57,45 @@ include CMakeFiles/TCP_IP_.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/TCP_IP_.dir/flags.make
 
-CMakeFiles/TCP_IP_.dir/30.remove_zombie.c.o: CMakeFiles/TCP_IP_.dir/flags.make
-CMakeFiles/TCP_IP_.dir/30.remove_zombie.c.o: ../30.remove_zombie.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/TCP_IP_.dir/30.remove_zombie.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/TCP_IP_.dir/30.remove_zombie.c.o   -c /mnt/d/github/TCP-IP-/30.remove_zombie.c
+CMakeFiles/TCP_IP_.dir/33.pipe.c.o: CMakeFiles/TCP_IP_.dir/flags.make
+CMakeFiles/TCP_IP_.dir/33.pipe.c.o: ../33.pipe.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/TCP_IP_.dir/33.pipe.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/TCP_IP_.dir/33.pipe.c.o   -c /mnt/d/github/TCP-IP-/33.pipe.c
 
-CMakeFiles/TCP_IP_.dir/30.remove_zombie.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_IP_.dir/30.remove_zombie.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/d/github/TCP-IP-/30.remove_zombie.c > CMakeFiles/TCP_IP_.dir/30.remove_zombie.c.i
+CMakeFiles/TCP_IP_.dir/33.pipe.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_IP_.dir/33.pipe.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/d/github/TCP-IP-/33.pipe.c > CMakeFiles/TCP_IP_.dir/33.pipe.c.i
 
-CMakeFiles/TCP_IP_.dir/30.remove_zombie.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_IP_.dir/30.remove_zombie.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/d/github/TCP-IP-/30.remove_zombie.c -o CMakeFiles/TCP_IP_.dir/30.remove_zombie.c.s
+CMakeFiles/TCP_IP_.dir/33.pipe.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_IP_.dir/33.pipe.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/d/github/TCP-IP-/33.pipe.c -o CMakeFiles/TCP_IP_.dir/33.pipe.c.s
 
-CMakeFiles/TCP_IP_.dir/31.echo_mpserv.c.o: CMakeFiles/TCP_IP_.dir/flags.make
-CMakeFiles/TCP_IP_.dir/31.echo_mpserv.c.o: ../31.echo_mpserv.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/TCP_IP_.dir/31.echo_mpserv.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/TCP_IP_.dir/31.echo_mpserv.c.o   -c /mnt/d/github/TCP-IP-/31.echo_mpserv.c
+CMakeFiles/TCP_IP_.dir/34.echo_stroreserv.c.o: CMakeFiles/TCP_IP_.dir/flags.make
+CMakeFiles/TCP_IP_.dir/34.echo_stroreserv.c.o: ../34.echo_stroreserv.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/TCP_IP_.dir/34.echo_stroreserv.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/TCP_IP_.dir/34.echo_stroreserv.c.o   -c /mnt/d/github/TCP-IP-/34.echo_stroreserv.c
 
-CMakeFiles/TCP_IP_.dir/31.echo_mpserv.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_IP_.dir/31.echo_mpserv.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/d/github/TCP-IP-/31.echo_mpserv.c > CMakeFiles/TCP_IP_.dir/31.echo_mpserv.c.i
+CMakeFiles/TCP_IP_.dir/34.echo_stroreserv.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_IP_.dir/34.echo_stroreserv.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/d/github/TCP-IP-/34.echo_stroreserv.c > CMakeFiles/TCP_IP_.dir/34.echo_stroreserv.c.i
 
-CMakeFiles/TCP_IP_.dir/31.echo_mpserv.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_IP_.dir/31.echo_mpserv.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/d/github/TCP-IP-/31.echo_mpserv.c -o CMakeFiles/TCP_IP_.dir/31.echo_mpserv.c.s
-
-CMakeFiles/TCP_IP_.dir/32.echo_mpclient.c.o: CMakeFiles/TCP_IP_.dir/flags.make
-CMakeFiles/TCP_IP_.dir/32.echo_mpclient.c.o: ../32.echo_mpclient.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/TCP_IP_.dir/32.echo_mpclient.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/TCP_IP_.dir/32.echo_mpclient.c.o   -c /mnt/d/github/TCP-IP-/32.echo_mpclient.c
-
-CMakeFiles/TCP_IP_.dir/32.echo_mpclient.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_IP_.dir/32.echo_mpclient.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/d/github/TCP-IP-/32.echo_mpclient.c > CMakeFiles/TCP_IP_.dir/32.echo_mpclient.c.i
-
-CMakeFiles/TCP_IP_.dir/32.echo_mpclient.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_IP_.dir/32.echo_mpclient.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/d/github/TCP-IP-/32.echo_mpclient.c -o CMakeFiles/TCP_IP_.dir/32.echo_mpclient.c.s
+CMakeFiles/TCP_IP_.dir/34.echo_stroreserv.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_IP_.dir/34.echo_stroreserv.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/d/github/TCP-IP-/34.echo_stroreserv.c -o CMakeFiles/TCP_IP_.dir/34.echo_stroreserv.c.s
 
 # Object files for target TCP_IP_
 TCP_IP__OBJECTS = \
-"CMakeFiles/TCP_IP_.dir/30.remove_zombie.c.o" \
-"CMakeFiles/TCP_IP_.dir/31.echo_mpserv.c.o" \
-"CMakeFiles/TCP_IP_.dir/32.echo_mpclient.c.o"
+"CMakeFiles/TCP_IP_.dir/33.pipe.c.o" \
+"CMakeFiles/TCP_IP_.dir/34.echo_stroreserv.c.o"
 
 # External object files for target TCP_IP_
 TCP_IP__EXTERNAL_OBJECTS =
 
-TCP_IP_: CMakeFiles/TCP_IP_.dir/30.remove_zombie.c.o
-TCP_IP_: CMakeFiles/TCP_IP_.dir/31.echo_mpserv.c.o
-TCP_IP_: CMakeFiles/TCP_IP_.dir/32.echo_mpclient.c.o
+TCP_IP_: CMakeFiles/TCP_IP_.dir/33.pipe.c.o
+TCP_IP_: CMakeFiles/TCP_IP_.dir/34.echo_stroreserv.c.o
 TCP_IP_: CMakeFiles/TCP_IP_.dir/build.make
 TCP_IP_: CMakeFiles/TCP_IP_.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking C executable TCP_IP_"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable TCP_IP_"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/TCP_IP_.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

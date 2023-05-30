@@ -4,9 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/mnt/d/github/TCP-IP-/30.remove_zombie.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/30.remove_zombie.c.o"
-  "/mnt/d/github/TCP-IP-/31.echo_mpserv.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/31.echo_mpserv.c.o"
-  "/mnt/d/github/TCP-IP-/32.echo_mpclient.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/32.echo_mpclient.c.o"
+  "/mnt/d/github/TCP-IP-/33.pipe.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/33.pipe.c.o"
+  "/mnt/d/github/TCP-IP-/34.echo_stroreserv.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/34.echo_stroreserv.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
