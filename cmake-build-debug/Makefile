@@ -123,167 +123,86 @@ TCP_IP_/fast:
 	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/build
 .PHONY : TCP_IP_/fast
 
-21.gethostbyaddr.o: 21.gethostbyaddr.c.o
+30.remove_zombie.o: 30.remove_zombie.c.o
 
-.PHONY : 21.gethostbyaddr.o
-
-# target to build an object file
-21.gethostbyaddr.c.o:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/21.gethostbyaddr.c.o
-.PHONY : 21.gethostbyaddr.c.o
-
-21.gethostbyaddr.i: 21.gethostbyaddr.c.i
-
-.PHONY : 21.gethostbyaddr.i
-
-# target to preprocess a source file
-21.gethostbyaddr.c.i:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/21.gethostbyaddr.c.i
-.PHONY : 21.gethostbyaddr.c.i
-
-21.gethostbyaddr.s: 21.gethostbyaddr.c.s
-
-.PHONY : 21.gethostbyaddr.s
-
-# target to generate assembly for a file
-21.gethostbyaddr.c.s:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/21.gethostbyaddr.c.s
-.PHONY : 21.gethostbyaddr.c.s
-
-22.sock_type.o: 22.sock_type.c.o
-
-.PHONY : 22.sock_type.o
+.PHONY : 30.remove_zombie.o
 
 # target to build an object file
-22.sock_type.c.o:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/22.sock_type.c.o
-.PHONY : 22.sock_type.c.o
+30.remove_zombie.c.o:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/30.remove_zombie.c.o
+.PHONY : 30.remove_zombie.c.o
 
-22.sock_type.i: 22.sock_type.c.i
+30.remove_zombie.i: 30.remove_zombie.c.i
 
-.PHONY : 22.sock_type.i
+.PHONY : 30.remove_zombie.i
 
 # target to preprocess a source file
-22.sock_type.c.i:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/22.sock_type.c.i
-.PHONY : 22.sock_type.c.i
+30.remove_zombie.c.i:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/30.remove_zombie.c.i
+.PHONY : 30.remove_zombie.c.i
 
-22.sock_type.s: 22.sock_type.c.s
+30.remove_zombie.s: 30.remove_zombie.c.s
 
-.PHONY : 22.sock_type.s
+.PHONY : 30.remove_zombie.s
 
 # target to generate assembly for a file
-22.sock_type.c.s:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/22.sock_type.c.s
-.PHONY : 22.sock_type.c.s
+30.remove_zombie.c.s:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/30.remove_zombie.c.s
+.PHONY : 30.remove_zombie.c.s
 
-23.get_buf.o: 23.get_buf.c.o
+31.echo_mpserv.o: 31.echo_mpserv.c.o
 
-.PHONY : 23.get_buf.o
+.PHONY : 31.echo_mpserv.o
 
 # target to build an object file
-23.get_buf.c.o:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/23.get_buf.c.o
-.PHONY : 23.get_buf.c.o
+31.echo_mpserv.c.o:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/31.echo_mpserv.c.o
+.PHONY : 31.echo_mpserv.c.o
 
-23.get_buf.i: 23.get_buf.c.i
+31.echo_mpserv.i: 31.echo_mpserv.c.i
 
-.PHONY : 23.get_buf.i
+.PHONY : 31.echo_mpserv.i
 
 # target to preprocess a source file
-23.get_buf.c.i:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/23.get_buf.c.i
-.PHONY : 23.get_buf.c.i
+31.echo_mpserv.c.i:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/31.echo_mpserv.c.i
+.PHONY : 31.echo_mpserv.c.i
 
-23.get_buf.s: 23.get_buf.c.s
+31.echo_mpserv.s: 31.echo_mpserv.c.s
 
-.PHONY : 23.get_buf.s
+.PHONY : 31.echo_mpserv.s
 
 # target to generate assembly for a file
-23.get_buf.c.s:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/23.get_buf.c.s
-.PHONY : 23.get_buf.c.s
+31.echo_mpserv.c.s:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/31.echo_mpserv.c.s
+.PHONY : 31.echo_mpserv.c.s
 
-24.set_buf.o: 24.set_buf.c.o
+32.echo_mpclient.o: 32.echo_mpclient.c.o
 
-.PHONY : 24.set_buf.o
+.PHONY : 32.echo_mpclient.o
 
 # target to build an object file
-24.set_buf.c.o:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/24.set_buf.c.o
-.PHONY : 24.set_buf.c.o
+32.echo_mpclient.c.o:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/32.echo_mpclient.c.o
+.PHONY : 32.echo_mpclient.c.o
 
-24.set_buf.i: 24.set_buf.c.i
+32.echo_mpclient.i: 32.echo_mpclient.c.i
 
-.PHONY : 24.set_buf.i
-
-# target to preprocess a source file
-24.set_buf.c.i:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/24.set_buf.c.i
-.PHONY : 24.set_buf.c.i
-
-24.set_buf.s: 24.set_buf.c.s
-
-.PHONY : 24.set_buf.s
-
-# target to generate assembly for a file
-24.set_buf.c.s:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/24.set_buf.c.s
-.PHONY : 24.set_buf.c.s
-
-25.reuseadr_eserver.o: 25.reuseadr_eserver.c.o
-
-.PHONY : 25.reuseadr_eserver.o
-
-# target to build an object file
-25.reuseadr_eserver.c.o:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/25.reuseadr_eserver.c.o
-.PHONY : 25.reuseadr_eserver.c.o
-
-25.reuseadr_eserver.i: 25.reuseadr_eserver.c.i
-
-.PHONY : 25.reuseadr_eserver.i
+.PHONY : 32.echo_mpclient.i
 
 # target to preprocess a source file
-25.reuseadr_eserver.c.i:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/25.reuseadr_eserver.c.i
-.PHONY : 25.reuseadr_eserver.c.i
+32.echo_mpclient.c.i:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/32.echo_mpclient.c.i
+.PHONY : 32.echo_mpclient.c.i
 
-25.reuseadr_eserver.s: 25.reuseadr_eserver.c.s
+32.echo_mpclient.s: 32.echo_mpclient.c.s
 
-.PHONY : 25.reuseadr_eserver.s
-
-# target to generate assembly for a file
-25.reuseadr_eserver.c.s:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/25.reuseadr_eserver.c.s
-.PHONY : 25.reuseadr_eserver.c.s
-
-chapter_9.o: chapter_9.c.o
-
-.PHONY : chapter_9.o
-
-# target to build an object file
-chapter_9.c.o:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/chapter_9.c.o
-.PHONY : chapter_9.c.o
-
-chapter_9.i: chapter_9.c.i
-
-.PHONY : chapter_9.i
-
-# target to preprocess a source file
-chapter_9.c.i:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/chapter_9.c.i
-.PHONY : chapter_9.c.i
-
-chapter_9.s: chapter_9.c.s
-
-.PHONY : chapter_9.s
+.PHONY : 32.echo_mpclient.s
 
 # target to generate assembly for a file
-chapter_9.c.s:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/chapter_9.c.s
-.PHONY : chapter_9.c.s
+32.echo_mpclient.c.s:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/32.echo_mpclient.c.s
+.PHONY : 32.echo_mpclient.c.s
 
 # Help Target
 help:
@@ -294,24 +213,15 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... TCP_IP_"
-	@echo "... 21.gethostbyaddr.o"
-	@echo "... 21.gethostbyaddr.i"
-	@echo "... 21.gethostbyaddr.s"
-	@echo "... 22.sock_type.o"
-	@echo "... 22.sock_type.i"
-	@echo "... 22.sock_type.s"
-	@echo "... 23.get_buf.o"
-	@echo "... 23.get_buf.i"
-	@echo "... 23.get_buf.s"
-	@echo "... 24.set_buf.o"
-	@echo "... 24.set_buf.i"
-	@echo "... 24.set_buf.s"
-	@echo "... 25.reuseadr_eserver.o"
-	@echo "... 25.reuseadr_eserver.i"
-	@echo "... 25.reuseadr_eserver.s"
-	@echo "... chapter_9.o"
-	@echo "... chapter_9.i"
-	@echo "... chapter_9.s"
+	@echo "... 30.remove_zombie.o"
+	@echo "... 30.remove_zombie.i"
+	@echo "... 30.remove_zombie.s"
+	@echo "... 31.echo_mpserv.o"
+	@echo "... 31.echo_mpserv.i"
+	@echo "... 31.echo_mpserv.s"
+	@echo "... 32.echo_mpclient.o"
+	@echo "... 32.echo_mpclient.i"
+	@echo "... 32.echo_mpclient.s"
 .PHONY : help
 
 

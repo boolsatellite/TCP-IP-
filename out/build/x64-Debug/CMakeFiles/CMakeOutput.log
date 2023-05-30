@@ -1,0 +1,33 @@
+The system is: Windows - 10.0.22621 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: D:/Program Files/Microsoft Visual Studio/2022/Professional/VC/Tools/MSVC/14.35.32215/bin/Hostx64/x64/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.35.32217.1 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.35.32217.1
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "D:/github/TCP-IP-/out/build/x64-Debug/CMakeFiles/3.25.1-msvc1/CompilerIdC/CMakeCCompilerId.exe"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/github/TCP-IP-/out/build/x64-Debug/CMakeFiles/CMakeScratch/TryCompile-kywa0y
+
+Run Build Command(s):D:/Program Files/Microsoft Visual Studio/2022/Professional/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_1df51 && [1/2] Building C object CMakeFiles\cmTC_1df51.dir\CMakeCCompilerABI.c.obj
+[2/2] Linking C executable cmTC_1df51.exe
+
+
+

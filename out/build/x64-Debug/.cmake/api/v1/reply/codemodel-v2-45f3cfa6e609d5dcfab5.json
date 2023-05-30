@@ -6,6 +6,7 @@
 			[
 				{
 					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.16"
@@ -38,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "TCP_IP_::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-TCP_IP_-Debug-c95be14c4ed855a3534c.json",
+					"jsonFile" : "target-TCP_IP_-Debug-2ce490dda8956393ca37.json",
 					"name" : "TCP_IP_",
 					"projectIndex" : 0
 				}
@@ -48,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/mnt/d/github/TCP-IP-/cmake-build-debug",
-		"source" : "/mnt/d/github/TCP-IP-"
+		"build" : "D:/github/TCP-IP-/out/build/x64-Debug",
+		"source" : "D:/github/TCP-IP-"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 0
+		"minor" : 4
 	}
 }

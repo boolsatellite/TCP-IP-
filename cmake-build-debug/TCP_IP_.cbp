@@ -76,22 +76,13 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/mnt/d/github/TCP-IP-/21.gethostbyaddr.c">
+		<Unit filename="/mnt/d/github/TCP-IP-/30.remove_zombie.c">
 			<Option target="TCP_IP_"/>
 		</Unit>
-		<Unit filename="/mnt/d/github/TCP-IP-/22.sock_type.c">
+		<Unit filename="/mnt/d/github/TCP-IP-/31.echo_mpserv.c">
 			<Option target="TCP_IP_"/>
 		</Unit>
-		<Unit filename="/mnt/d/github/TCP-IP-/23.get_buf.c">
-			<Option target="TCP_IP_"/>
-		</Unit>
-		<Unit filename="/mnt/d/github/TCP-IP-/24.set_buf.c">
-			<Option target="TCP_IP_"/>
-		</Unit>
-		<Unit filename="/mnt/d/github/TCP-IP-/25.reuseadr_eserver.c">
-			<Option target="TCP_IP_"/>
-		</Unit>
-		<Unit filename="/mnt/d/github/TCP-IP-/chapter_9.c">
+		<Unit filename="/mnt/d/github/TCP-IP-/32.echo_mpclient.c">
 			<Option target="TCP_IP_"/>
 		</Unit>
 		<Unit filename="/mnt/d/github/TCP-IP-/CMakeLists.txt">
