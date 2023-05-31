@@ -1,1 +1,1 @@
-/usr/bin/cc -g   CMakeFiles/TCP_IP_.dir/33.pipe.c.o CMakeFiles/TCP_IP_.dir/34.echo_stroreserv.c.o  -o TCP_IP_ 
+/usr/bin/cc -g   CMakeFiles/TCP_IP_.dir/36.echo_selectserv.c.o  -o TCP_IP_ 

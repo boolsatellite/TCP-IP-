@@ -123,59 +123,32 @@ TCP_IP_/fast:
 	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/build
 .PHONY : TCP_IP_/fast
 
-33.pipe.o: 33.pipe.c.o
+36.echo_selectserv.o: 36.echo_selectserv.c.o
 
-.PHONY : 33.pipe.o
-
-# target to build an object file
-33.pipe.c.o:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/33.pipe.c.o
-.PHONY : 33.pipe.c.o
-
-33.pipe.i: 33.pipe.c.i
-
-.PHONY : 33.pipe.i
-
-# target to preprocess a source file
-33.pipe.c.i:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/33.pipe.c.i
-.PHONY : 33.pipe.c.i
-
-33.pipe.s: 33.pipe.c.s
-
-.PHONY : 33.pipe.s
-
-# target to generate assembly for a file
-33.pipe.c.s:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/33.pipe.c.s
-.PHONY : 33.pipe.c.s
-
-34.echo_stroreserv.o: 34.echo_stroreserv.c.o
-
-.PHONY : 34.echo_stroreserv.o
+.PHONY : 36.echo_selectserv.o
 
 # target to build an object file
-34.echo_stroreserv.c.o:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/34.echo_stroreserv.c.o
-.PHONY : 34.echo_stroreserv.c.o
+36.echo_selectserv.c.o:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/36.echo_selectserv.c.o
+.PHONY : 36.echo_selectserv.c.o
 
-34.echo_stroreserv.i: 34.echo_stroreserv.c.i
+36.echo_selectserv.i: 36.echo_selectserv.c.i
 
-.PHONY : 34.echo_stroreserv.i
+.PHONY : 36.echo_selectserv.i
 
 # target to preprocess a source file
-34.echo_stroreserv.c.i:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/34.echo_stroreserv.c.i
-.PHONY : 34.echo_stroreserv.c.i
+36.echo_selectserv.c.i:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/36.echo_selectserv.c.i
+.PHONY : 36.echo_selectserv.c.i
 
-34.echo_stroreserv.s: 34.echo_stroreserv.c.s
+36.echo_selectserv.s: 36.echo_selectserv.c.s
 
-.PHONY : 34.echo_stroreserv.s
+.PHONY : 36.echo_selectserv.s
 
 # target to generate assembly for a file
-34.echo_stroreserv.c.s:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/34.echo_stroreserv.c.s
-.PHONY : 34.echo_stroreserv.c.s
+36.echo_selectserv.c.s:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/36.echo_selectserv.c.s
+.PHONY : 36.echo_selectserv.c.s
 
 # Help Target
 help:
@@ -186,12 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... TCP_IP_"
-	@echo "... 33.pipe.o"
-	@echo "... 33.pipe.i"
-	@echo "... 33.pipe.s"
-	@echo "... 34.echo_stroreserv.o"
-	@echo "... 34.echo_stroreserv.i"
-	@echo "... 34.echo_stroreserv.s"
+	@echo "... 36.echo_selectserv.o"
+	@echo "... 36.echo_selectserv.i"
+	@echo "... 36.echo_selectserv.s"
 .PHONY : help
 
 

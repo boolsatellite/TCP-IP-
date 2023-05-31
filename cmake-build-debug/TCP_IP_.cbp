@@ -76,10 +76,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/mnt/d/github/TCP-IP-/33.pipe.c">
-			<Option target="TCP_IP_"/>
-		</Unit>
-		<Unit filename="/mnt/d/github/TCP-IP-/34.echo_stroreserv.c">
+		<Unit filename="/mnt/d/github/TCP-IP-/36.echo_selectserv.c">
 			<Option target="TCP_IP_"/>
 		</Unit>
 		<Unit filename="/mnt/d/github/TCP-IP-/CMakeLists.txt">

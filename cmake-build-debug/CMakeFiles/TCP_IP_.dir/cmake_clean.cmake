@@ -1,6 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/TCP_IP_.dir/33.pipe.c.o"
-  "CMakeFiles/TCP_IP_.dir/34.echo_stroreserv.c.o"
+  "CMakeFiles/TCP_IP_.dir/36.echo_selectserv.c.o"
   "TCP_IP_"
   "TCP_IP_.pdb"
 )

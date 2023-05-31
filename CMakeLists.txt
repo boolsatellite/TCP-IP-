@@ -3,5 +3,7 @@ project(TCP_IP_ C)
 
 set(CMAKE_C_STANDARD 11)
 
+add_compile_options()
+
 add_executable(TCP_IP_
-        33.pipe.c 34.echo_stroreserv.c)
+         36.echo_selectserv.c)
