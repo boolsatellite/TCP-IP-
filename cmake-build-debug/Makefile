@@ -123,32 +123,167 @@ TCP_IP_/fast:
 	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/build
 .PHONY : TCP_IP_/fast
 
-36.echo_selectserv.o: 36.echo_selectserv.c.o
+37.oob_send.o: 37.oob_send.c.o
 
-.PHONY : 36.echo_selectserv.o
+.PHONY : 37.oob_send.o
 
 # target to build an object file
-36.echo_selectserv.c.o:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/36.echo_selectserv.c.o
-.PHONY : 36.echo_selectserv.c.o
+37.oob_send.c.o:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/37.oob_send.c.o
+.PHONY : 37.oob_send.c.o
 
-36.echo_selectserv.i: 36.echo_selectserv.c.i
+37.oob_send.i: 37.oob_send.c.i
 
-.PHONY : 36.echo_selectserv.i
+.PHONY : 37.oob_send.i
 
 # target to preprocess a source file
-36.echo_selectserv.c.i:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/36.echo_selectserv.c.i
-.PHONY : 36.echo_selectserv.c.i
+37.oob_send.c.i:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/37.oob_send.c.i
+.PHONY : 37.oob_send.c.i
 
-36.echo_selectserv.s: 36.echo_selectserv.c.s
+37.oob_send.s: 37.oob_send.c.s
 
-.PHONY : 36.echo_selectserv.s
+.PHONY : 37.oob_send.s
 
 # target to generate assembly for a file
-36.echo_selectserv.c.s:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/36.echo_selectserv.c.s
-.PHONY : 36.echo_selectserv.c.s
+37.oob_send.c.s:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/37.oob_send.c.s
+.PHONY : 37.oob_send.c.s
+
+38.oob_recv.o: 38.oob_recv.c.o
+
+.PHONY : 38.oob_recv.o
+
+# target to build an object file
+38.oob_recv.c.o:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/38.oob_recv.c.o
+.PHONY : 38.oob_recv.c.o
+
+38.oob_recv.i: 38.oob_recv.c.i
+
+.PHONY : 38.oob_recv.i
+
+# target to preprocess a source file
+38.oob_recv.c.i:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/38.oob_recv.c.i
+.PHONY : 38.oob_recv.c.i
+
+38.oob_recv.s: 38.oob_recv.c.s
+
+.PHONY : 38.oob_recv.s
+
+# target to generate assembly for a file
+38.oob_recv.c.s:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/38.oob_recv.c.s
+.PHONY : 38.oob_recv.c.s
+
+39。peek_send.o: 39。peek_send.c.o
+
+.PHONY : 39。peek_send.o
+
+# target to build an object file
+39。peek_send.c.o:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/39。peek_send.c.o
+.PHONY : 39。peek_send.c.o
+
+39。peek_send.i: 39。peek_send.c.i
+
+.PHONY : 39。peek_send.i
+
+# target to preprocess a source file
+39。peek_send.c.i:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/39。peek_send.c.i
+.PHONY : 39。peek_send.c.i
+
+39。peek_send.s: 39。peek_send.c.s
+
+.PHONY : 39。peek_send.s
+
+# target to generate assembly for a file
+39。peek_send.c.s:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/39。peek_send.c.s
+.PHONY : 39。peek_send.c.s
+
+40.peek_revc.o: 40.peek_revc.c.o
+
+.PHONY : 40.peek_revc.o
+
+# target to build an object file
+40.peek_revc.c.o:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/40.peek_revc.c.o
+.PHONY : 40.peek_revc.c.o
+
+40.peek_revc.i: 40.peek_revc.c.i
+
+.PHONY : 40.peek_revc.i
+
+# target to preprocess a source file
+40.peek_revc.c.i:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/40.peek_revc.c.i
+.PHONY : 40.peek_revc.c.i
+
+40.peek_revc.s: 40.peek_revc.c.s
+
+.PHONY : 40.peek_revc.s
+
+# target to generate assembly for a file
+40.peek_revc.c.s:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/40.peek_revc.c.s
+.PHONY : 40.peek_revc.c.s
+
+41.writev.o: 41.writev.c.o
+
+.PHONY : 41.writev.o
+
+# target to build an object file
+41.writev.c.o:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/41.writev.c.o
+.PHONY : 41.writev.c.o
+
+41.writev.i: 41.writev.c.i
+
+.PHONY : 41.writev.i
+
+# target to preprocess a source file
+41.writev.c.i:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/41.writev.c.i
+.PHONY : 41.writev.c.i
+
+41.writev.s: 41.writev.c.s
+
+.PHONY : 41.writev.s
+
+# target to generate assembly for a file
+41.writev.c.s:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/41.writev.c.s
+.PHONY : 41.writev.c.s
+
+42.readv.o: 42.readv.c.o
+
+.PHONY : 42.readv.o
+
+# target to build an object file
+42.readv.c.o:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/42.readv.c.o
+.PHONY : 42.readv.c.o
+
+42.readv.i: 42.readv.c.i
+
+.PHONY : 42.readv.i
+
+# target to preprocess a source file
+42.readv.c.i:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/42.readv.c.i
+.PHONY : 42.readv.c.i
+
+42.readv.s: 42.readv.c.s
+
+.PHONY : 42.readv.s
+
+# target to generate assembly for a file
+42.readv.c.s:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/42.readv.c.s
+.PHONY : 42.readv.c.s
 
 # Help Target
 help:
@@ -159,9 +294,24 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... TCP_IP_"
-	@echo "... 36.echo_selectserv.o"
-	@echo "... 36.echo_selectserv.i"
-	@echo "... 36.echo_selectserv.s"
+	@echo "... 37.oob_send.o"
+	@echo "... 37.oob_send.i"
+	@echo "... 37.oob_send.s"
+	@echo "... 38.oob_recv.o"
+	@echo "... 38.oob_recv.i"
+	@echo "... 38.oob_recv.s"
+	@echo "... 39。peek_send.o"
+	@echo "... 39。peek_send.i"
+	@echo "... 39。peek_send.s"
+	@echo "... 40.peek_revc.o"
+	@echo "... 40.peek_revc.i"
+	@echo "... 40.peek_revc.s"
+	@echo "... 41.writev.o"
+	@echo "... 41.writev.i"
+	@echo "... 41.writev.s"
+	@echo "... 42.readv.o"
+	@echo "... 42.readv.i"
+	@echo "... 42.readv.s"
 .PHONY : help
 
 

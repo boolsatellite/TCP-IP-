@@ -76,7 +76,22 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/mnt/d/github/TCP-IP-/36.echo_selectserv.c">
+		<Unit filename="/mnt/d/github/TCP-IP-/37.oob_send.c">
+			<Option target="TCP_IP_"/>
+		</Unit>
+		<Unit filename="/mnt/d/github/TCP-IP-/38.oob_recv.c">
+			<Option target="TCP_IP_"/>
+		</Unit>
+		<Unit filename="/mnt/d/github/TCP-IP-/39。peek_send.c">
+			<Option target="TCP_IP_"/>
+		</Unit>
+		<Unit filename="/mnt/d/github/TCP-IP-/40.peek_revc.c">
+			<Option target="TCP_IP_"/>
+		</Unit>
+		<Unit filename="/mnt/d/github/TCP-IP-/41.writev.c">
+			<Option target="TCP_IP_"/>
+		</Unit>
+		<Unit filename="/mnt/d/github/TCP-IP-/42.readv.c">
 			<Option target="TCP_IP_"/>
 		</Unit>
 		<Unit filename="/mnt/d/github/TCP-IP-/CMakeLists.txt">

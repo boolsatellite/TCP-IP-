@@ -18,5 +18,7 @@ full duplex             全双工
 synchronization         同步
 none                    没有
 routine                 常规
+peek                    窥视
+urgent                  迫切的
 
 ```

@@ -57,30 +57,105 @@ include CMakeFiles/TCP_IP_.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/TCP_IP_.dir/flags.make
 
-CMakeFiles/TCP_IP_.dir/36.echo_selectserv.c.o: CMakeFiles/TCP_IP_.dir/flags.make
-CMakeFiles/TCP_IP_.dir/36.echo_selectserv.c.o: ../36.echo_selectserv.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/TCP_IP_.dir/36.echo_selectserv.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/TCP_IP_.dir/36.echo_selectserv.c.o   -c /mnt/d/github/TCP-IP-/36.echo_selectserv.c
+CMakeFiles/TCP_IP_.dir/37.oob_send.c.o: CMakeFiles/TCP_IP_.dir/flags.make
+CMakeFiles/TCP_IP_.dir/37.oob_send.c.o: ../37.oob_send.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/TCP_IP_.dir/37.oob_send.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/TCP_IP_.dir/37.oob_send.c.o   -c /mnt/d/github/TCP-IP-/37.oob_send.c
 
-CMakeFiles/TCP_IP_.dir/36.echo_selectserv.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_IP_.dir/36.echo_selectserv.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/d/github/TCP-IP-/36.echo_selectserv.c > CMakeFiles/TCP_IP_.dir/36.echo_selectserv.c.i
+CMakeFiles/TCP_IP_.dir/37.oob_send.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_IP_.dir/37.oob_send.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/d/github/TCP-IP-/37.oob_send.c > CMakeFiles/TCP_IP_.dir/37.oob_send.c.i
 
-CMakeFiles/TCP_IP_.dir/36.echo_selectserv.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_IP_.dir/36.echo_selectserv.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/d/github/TCP-IP-/36.echo_selectserv.c -o CMakeFiles/TCP_IP_.dir/36.echo_selectserv.c.s
+CMakeFiles/TCP_IP_.dir/37.oob_send.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_IP_.dir/37.oob_send.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/d/github/TCP-IP-/37.oob_send.c -o CMakeFiles/TCP_IP_.dir/37.oob_send.c.s
+
+CMakeFiles/TCP_IP_.dir/38.oob_recv.c.o: CMakeFiles/TCP_IP_.dir/flags.make
+CMakeFiles/TCP_IP_.dir/38.oob_recv.c.o: ../38.oob_recv.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/TCP_IP_.dir/38.oob_recv.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/TCP_IP_.dir/38.oob_recv.c.o   -c /mnt/d/github/TCP-IP-/38.oob_recv.c
+
+CMakeFiles/TCP_IP_.dir/38.oob_recv.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_IP_.dir/38.oob_recv.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/d/github/TCP-IP-/38.oob_recv.c > CMakeFiles/TCP_IP_.dir/38.oob_recv.c.i
+
+CMakeFiles/TCP_IP_.dir/38.oob_recv.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_IP_.dir/38.oob_recv.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/d/github/TCP-IP-/38.oob_recv.c -o CMakeFiles/TCP_IP_.dir/38.oob_recv.c.s
+
+CMakeFiles/TCP_IP_.dir/39。peek_send.c.o: CMakeFiles/TCP_IP_.dir/flags.make
+CMakeFiles/TCP_IP_.dir/39。peek_send.c.o: ../39。peek_send.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/TCP_IP_.dir/39。peek_send.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/TCP_IP_.dir/39。peek_send.c.o   -c /mnt/d/github/TCP-IP-/39。peek_send.c
+
+CMakeFiles/TCP_IP_.dir/39。peek_send.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_IP_.dir/39。peek_send.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/d/github/TCP-IP-/39。peek_send.c > CMakeFiles/TCP_IP_.dir/39。peek_send.c.i
+
+CMakeFiles/TCP_IP_.dir/39。peek_send.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_IP_.dir/39。peek_send.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/d/github/TCP-IP-/39。peek_send.c -o CMakeFiles/TCP_IP_.dir/39。peek_send.c.s
+
+CMakeFiles/TCP_IP_.dir/40.peek_revc.c.o: CMakeFiles/TCP_IP_.dir/flags.make
+CMakeFiles/TCP_IP_.dir/40.peek_revc.c.o: ../40.peek_revc.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/TCP_IP_.dir/40.peek_revc.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/TCP_IP_.dir/40.peek_revc.c.o   -c /mnt/d/github/TCP-IP-/40.peek_revc.c
+
+CMakeFiles/TCP_IP_.dir/40.peek_revc.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_IP_.dir/40.peek_revc.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/d/github/TCP-IP-/40.peek_revc.c > CMakeFiles/TCP_IP_.dir/40.peek_revc.c.i
+
+CMakeFiles/TCP_IP_.dir/40.peek_revc.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_IP_.dir/40.peek_revc.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/d/github/TCP-IP-/40.peek_revc.c -o CMakeFiles/TCP_IP_.dir/40.peek_revc.c.s
+
+CMakeFiles/TCP_IP_.dir/41.writev.c.o: CMakeFiles/TCP_IP_.dir/flags.make
+CMakeFiles/TCP_IP_.dir/41.writev.c.o: ../41.writev.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/TCP_IP_.dir/41.writev.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/TCP_IP_.dir/41.writev.c.o   -c /mnt/d/github/TCP-IP-/41.writev.c
+
+CMakeFiles/TCP_IP_.dir/41.writev.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_IP_.dir/41.writev.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/d/github/TCP-IP-/41.writev.c > CMakeFiles/TCP_IP_.dir/41.writev.c.i
+
+CMakeFiles/TCP_IP_.dir/41.writev.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_IP_.dir/41.writev.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/d/github/TCP-IP-/41.writev.c -o CMakeFiles/TCP_IP_.dir/41.writev.c.s
+
+CMakeFiles/TCP_IP_.dir/42.readv.c.o: CMakeFiles/TCP_IP_.dir/flags.make
+CMakeFiles/TCP_IP_.dir/42.readv.c.o: ../42.readv.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/TCP_IP_.dir/42.readv.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/TCP_IP_.dir/42.readv.c.o   -c /mnt/d/github/TCP-IP-/42.readv.c
+
+CMakeFiles/TCP_IP_.dir/42.readv.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_IP_.dir/42.readv.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/d/github/TCP-IP-/42.readv.c > CMakeFiles/TCP_IP_.dir/42.readv.c.i
+
+CMakeFiles/TCP_IP_.dir/42.readv.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_IP_.dir/42.readv.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/d/github/TCP-IP-/42.readv.c -o CMakeFiles/TCP_IP_.dir/42.readv.c.s
 
 # Object files for target TCP_IP_
 TCP_IP__OBJECTS = \
-"CMakeFiles/TCP_IP_.dir/36.echo_selectserv.c.o"
+"CMakeFiles/TCP_IP_.dir/37.oob_send.c.o" \
+"CMakeFiles/TCP_IP_.dir/38.oob_recv.c.o" \
+"CMakeFiles/TCP_IP_.dir/39。peek_send.c.o" \
+"CMakeFiles/TCP_IP_.dir/40.peek_revc.c.o" \
+"CMakeFiles/TCP_IP_.dir/41.writev.c.o" \
+"CMakeFiles/TCP_IP_.dir/42.readv.c.o"
 
 # External object files for target TCP_IP_
 TCP_IP__EXTERNAL_OBJECTS =
 
-TCP_IP_: CMakeFiles/TCP_IP_.dir/36.echo_selectserv.c.o
+TCP_IP_: CMakeFiles/TCP_IP_.dir/37.oob_send.c.o
+TCP_IP_: CMakeFiles/TCP_IP_.dir/38.oob_recv.c.o
+TCP_IP_: CMakeFiles/TCP_IP_.dir/39。peek_send.c.o
+TCP_IP_: CMakeFiles/TCP_IP_.dir/40.peek_revc.c.o
+TCP_IP_: CMakeFiles/TCP_IP_.dir/41.writev.c.o
+TCP_IP_: CMakeFiles/TCP_IP_.dir/42.readv.c.o
 TCP_IP_: CMakeFiles/TCP_IP_.dir/build.make
 TCP_IP_: CMakeFiles/TCP_IP_.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable TCP_IP_"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking C executable TCP_IP_"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/TCP_IP_.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

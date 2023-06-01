@@ -1,5 +1,10 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/TCP_IP_.dir/36.echo_selectserv.c.o"
+  "CMakeFiles/TCP_IP_.dir/37.oob_send.c.o"
+  "CMakeFiles/TCP_IP_.dir/38.oob_recv.c.o"
+  "CMakeFiles/TCP_IP_.dir/39。peek_send.c.o"
+  "CMakeFiles/TCP_IP_.dir/40.peek_revc.c.o"
+  "CMakeFiles/TCP_IP_.dir/41.writev.c.o"
+  "CMakeFiles/TCP_IP_.dir/42.readv.c.o"
   "TCP_IP_"
   "TCP_IP_.pdb"
 )
