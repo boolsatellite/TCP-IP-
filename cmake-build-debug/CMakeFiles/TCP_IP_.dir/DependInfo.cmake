@@ -4,15 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/mnt/d/github/TCP-IP-/37.oob_send.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/37.oob_send.c.o"
-  "/mnt/d/github/TCP-IP-/38.oob_recv.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/38.oob_recv.c.o"
-  "/mnt/d/github/TCP-IP-/39。peek_send.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/39。peek_send.c.o"
-  "/mnt/d/github/TCP-IP-/40.peek_revc.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/40.peek_revc.c.o"
-  "/mnt/d/github/TCP-IP-/41.writev.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/41.writev.c.o"
-  "/mnt/d/github/TCP-IP-/42.readv.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/42.readv.c.o"
-  "/mnt/d/github/TCP-IP-/43.news_sender.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/43.news_sender.c.o"
-  "/mnt/d/github/TCP-IP-/44.receiver.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/44.receiver.c.o"
-  "/mnt/d/github/TCP-IP-/chapter_14.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/chapter_14.c.o"
+  "/mnt/d/github/TCP-IP-/47.sep_serv.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/47.sep_serv.c.o"
+  "/mnt/d/github/TCP-IP-/48.sep_clnt.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/48.sep_clnt.c.o"
+  "/mnt/d/github/TCP-IP-/49.dup.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/49.dup.c.o"
+  "/mnt/d/github/TCP-IP-/50.sep_serv2.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/50.sep_serv2.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

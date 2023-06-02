@@ -47,12 +47,7 @@
 				0,
 				1,
 				2,
-				3,
-				4,
-				5,
-				6,
-				7,
-				8
+				3
 			]
 		}
 	],
@@ -88,12 +83,7 @@
 				0,
 				1,
 				2,
-				3,
-				4,
-				5,
-				6,
-				7,
-				8
+				3
 			]
 		}
 	],
@@ -102,55 +92,25 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "37.oob_send.c",
+			"path" : "47.sep_serv.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "38.oob_recv.c",
+			"path" : "48.sep_clnt.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "39。peek_send.c",
+			"path" : "49.dup.c",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "40.peek_revc.c",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "41.writev.c",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "42.readv.c",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "chapter_14.c",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "43.news_sender.c",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "44.receiver.c",
+			"path" : "50.sep_serv2.c",
 			"sourceGroupIndex" : 0
 		}
 	],
