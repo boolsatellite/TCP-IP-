@@ -285,6 +285,87 @@ TCP_IP_/fast:
 	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/42.readv.c.s
 .PHONY : 42.readv.c.s
 
+43.news_sender.o: 43.news_sender.c.o
+
+.PHONY : 43.news_sender.o
+
+# target to build an object file
+43.news_sender.c.o:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/43.news_sender.c.o
+.PHONY : 43.news_sender.c.o
+
+43.news_sender.i: 43.news_sender.c.i
+
+.PHONY : 43.news_sender.i
+
+# target to preprocess a source file
+43.news_sender.c.i:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/43.news_sender.c.i
+.PHONY : 43.news_sender.c.i
+
+43.news_sender.s: 43.news_sender.c.s
+
+.PHONY : 43.news_sender.s
+
+# target to generate assembly for a file
+43.news_sender.c.s:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/43.news_sender.c.s
+.PHONY : 43.news_sender.c.s
+
+44.receiver.o: 44.receiver.c.o
+
+.PHONY : 44.receiver.o
+
+# target to build an object file
+44.receiver.c.o:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/44.receiver.c.o
+.PHONY : 44.receiver.c.o
+
+44.receiver.i: 44.receiver.c.i
+
+.PHONY : 44.receiver.i
+
+# target to preprocess a source file
+44.receiver.c.i:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/44.receiver.c.i
+.PHONY : 44.receiver.c.i
+
+44.receiver.s: 44.receiver.c.s
+
+.PHONY : 44.receiver.s
+
+# target to generate assembly for a file
+44.receiver.c.s:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/44.receiver.c.s
+.PHONY : 44.receiver.c.s
+
+chapter_14.o: chapter_14.c.o
+
+.PHONY : chapter_14.o
+
+# target to build an object file
+chapter_14.c.o:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/chapter_14.c.o
+.PHONY : chapter_14.c.o
+
+chapter_14.i: chapter_14.c.i
+
+.PHONY : chapter_14.i
+
+# target to preprocess a source file
+chapter_14.c.i:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/chapter_14.c.i
+.PHONY : chapter_14.c.i
+
+chapter_14.s: chapter_14.c.s
+
+.PHONY : chapter_14.s
+
+# target to generate assembly for a file
+chapter_14.c.s:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/chapter_14.c.s
+.PHONY : chapter_14.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -312,6 +393,15 @@ help:
 	@echo "... 42.readv.o"
 	@echo "... 42.readv.i"
 	@echo "... 42.readv.s"
+	@echo "... 43.news_sender.o"
+	@echo "... 43.news_sender.i"
+	@echo "... 43.news_sender.s"
+	@echo "... 44.receiver.o"
+	@echo "... 44.receiver.i"
+	@echo "... 44.receiver.s"
+	@echo "... chapter_14.o"
+	@echo "... chapter_14.i"
+	@echo "... chapter_14.s"
 .PHONY : help
 
 

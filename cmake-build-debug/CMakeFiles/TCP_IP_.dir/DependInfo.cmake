@@ -10,6 +10,9 @@ set(CMAKE_DEPENDS_CHECK_C
   "/mnt/d/github/TCP-IP-/40.peek_revc.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/40.peek_revc.c.o"
   "/mnt/d/github/TCP-IP-/41.writev.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/41.writev.c.o"
   "/mnt/d/github/TCP-IP-/42.readv.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/42.readv.c.o"
+  "/mnt/d/github/TCP-IP-/43.news_sender.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/43.news_sender.c.o"
+  "/mnt/d/github/TCP-IP-/44.receiver.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/44.receiver.c.o"
+  "/mnt/d/github/TCP-IP-/chapter_14.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/chapter_14.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

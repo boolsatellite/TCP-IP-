@@ -94,6 +94,15 @@
 		<Unit filename="/mnt/d/github/TCP-IP-/42.readv.c">
 			<Option target="TCP_IP_"/>
 		</Unit>
+		<Unit filename="/mnt/d/github/TCP-IP-/43.news_sender.c">
+			<Option target="TCP_IP_"/>
+		</Unit>
+		<Unit filename="/mnt/d/github/TCP-IP-/44.receiver.c">
+			<Option target="TCP_IP_"/>
+		</Unit>
+		<Unit filename="/mnt/d/github/TCP-IP-/chapter_14.c">
+			<Option target="TCP_IP_"/>
+		</Unit>
 		<Unit filename="/mnt/d/github/TCP-IP-/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
