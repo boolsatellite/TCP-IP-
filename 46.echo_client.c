@@ -36,8 +36,6 @@ int main(int argc, char *argv[]) {
     serv_adr.sin_addr.s_addr = inet_addr(argv[1]);
     serv_adr.sin_port = htons(atoi(argv[2]));
 
-    if (bind(sock, (struct sockaddr *) &serv_adr, sizeof serv_adr) == -1)
-        error_handling("bind error");
 
     if (connect(sock, (struct sockaddr *) &serv_adr, sizeof serv_adr) == -1)
         error_handling("connect error");
