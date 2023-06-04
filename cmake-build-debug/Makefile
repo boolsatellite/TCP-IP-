@@ -123,113 +123,32 @@ TCP_IP_/fast:
 	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/build
 .PHONY : TCP_IP_/fast
 
-47.sep_serv.o: 47.sep_serv.c.o
+53.echo_EPETserv.o: 53.echo_EPETserv.c.o
 
-.PHONY : 47.sep_serv.o
-
-# target to build an object file
-47.sep_serv.c.o:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/47.sep_serv.c.o
-.PHONY : 47.sep_serv.c.o
-
-47.sep_serv.i: 47.sep_serv.c.i
-
-.PHONY : 47.sep_serv.i
-
-# target to preprocess a source file
-47.sep_serv.c.i:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/47.sep_serv.c.i
-.PHONY : 47.sep_serv.c.i
-
-47.sep_serv.s: 47.sep_serv.c.s
-
-.PHONY : 47.sep_serv.s
-
-# target to generate assembly for a file
-47.sep_serv.c.s:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/47.sep_serv.c.s
-.PHONY : 47.sep_serv.c.s
-
-48.sep_clnt.o: 48.sep_clnt.c.o
-
-.PHONY : 48.sep_clnt.o
+.PHONY : 53.echo_EPETserv.o
 
 # target to build an object file
-48.sep_clnt.c.o:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/48.sep_clnt.c.o
-.PHONY : 48.sep_clnt.c.o
+53.echo_EPETserv.c.o:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/53.echo_EPETserv.c.o
+.PHONY : 53.echo_EPETserv.c.o
 
-48.sep_clnt.i: 48.sep_clnt.c.i
+53.echo_EPETserv.i: 53.echo_EPETserv.c.i
 
-.PHONY : 48.sep_clnt.i
-
-# target to preprocess a source file
-48.sep_clnt.c.i:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/48.sep_clnt.c.i
-.PHONY : 48.sep_clnt.c.i
-
-48.sep_clnt.s: 48.sep_clnt.c.s
-
-.PHONY : 48.sep_clnt.s
-
-# target to generate assembly for a file
-48.sep_clnt.c.s:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/48.sep_clnt.c.s
-.PHONY : 48.sep_clnt.c.s
-
-49.dup.o: 49.dup.c.o
-
-.PHONY : 49.dup.o
-
-# target to build an object file
-49.dup.c.o:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/49.dup.c.o
-.PHONY : 49.dup.c.o
-
-49.dup.i: 49.dup.c.i
-
-.PHONY : 49.dup.i
+.PHONY : 53.echo_EPETserv.i
 
 # target to preprocess a source file
-49.dup.c.i:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/49.dup.c.i
-.PHONY : 49.dup.c.i
+53.echo_EPETserv.c.i:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/53.echo_EPETserv.c.i
+.PHONY : 53.echo_EPETserv.c.i
 
-49.dup.s: 49.dup.c.s
+53.echo_EPETserv.s: 53.echo_EPETserv.c.s
 
-.PHONY : 49.dup.s
-
-# target to generate assembly for a file
-49.dup.c.s:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/49.dup.c.s
-.PHONY : 49.dup.c.s
-
-50.sep_serv2.o: 50.sep_serv2.c.o
-
-.PHONY : 50.sep_serv2.o
-
-# target to build an object file
-50.sep_serv2.c.o:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/50.sep_serv2.c.o
-.PHONY : 50.sep_serv2.c.o
-
-50.sep_serv2.i: 50.sep_serv2.c.i
-
-.PHONY : 50.sep_serv2.i
-
-# target to preprocess a source file
-50.sep_serv2.c.i:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/50.sep_serv2.c.i
-.PHONY : 50.sep_serv2.c.i
-
-50.sep_serv2.s: 50.sep_serv2.c.s
-
-.PHONY : 50.sep_serv2.s
+.PHONY : 53.echo_EPETserv.s
 
 # target to generate assembly for a file
-50.sep_serv2.c.s:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/50.sep_serv2.c.s
-.PHONY : 50.sep_serv2.c.s
+53.echo_EPETserv.c.s:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/53.echo_EPETserv.c.s
+.PHONY : 53.echo_EPETserv.c.s
 
 # Help Target
 help:
@@ -240,18 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... TCP_IP_"
-	@echo "... 47.sep_serv.o"
-	@echo "... 47.sep_serv.i"
-	@echo "... 47.sep_serv.s"
-	@echo "... 48.sep_clnt.o"
-	@echo "... 48.sep_clnt.i"
-	@echo "... 48.sep_clnt.s"
-	@echo "... 49.dup.o"
-	@echo "... 49.dup.i"
-	@echo "... 49.dup.s"
-	@echo "... 50.sep_serv2.o"
-	@echo "... 50.sep_serv2.i"
-	@echo "... 50.sep_serv2.s"
+	@echo "... 53.echo_EPETserv.o"
+	@echo "... 53.echo_EPETserv.i"
+	@echo "... 53.echo_EPETserv.s"
 .PHONY : help
 
 

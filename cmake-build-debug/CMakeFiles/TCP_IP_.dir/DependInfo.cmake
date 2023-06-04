@@ -4,10 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/mnt/d/github/TCP-IP-/47.sep_serv.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/47.sep_serv.c.o"
-  "/mnt/d/github/TCP-IP-/48.sep_clnt.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/48.sep_clnt.c.o"
-  "/mnt/d/github/TCP-IP-/49.dup.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/49.dup.c.o"
-  "/mnt/d/github/TCP-IP-/50.sep_serv2.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/50.sep_serv2.c.o"
+  "/mnt/d/github/TCP-IP-/53.echo_EPETserv.c" "/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles/TCP_IP_.dir/53.echo_EPETserv.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

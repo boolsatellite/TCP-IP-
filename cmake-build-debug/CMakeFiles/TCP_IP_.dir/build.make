@@ -57,75 +57,30 @@ include CMakeFiles/TCP_IP_.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/TCP_IP_.dir/flags.make
 
-CMakeFiles/TCP_IP_.dir/47.sep_serv.c.o: CMakeFiles/TCP_IP_.dir/flags.make
-CMakeFiles/TCP_IP_.dir/47.sep_serv.c.o: ../47.sep_serv.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/TCP_IP_.dir/47.sep_serv.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/TCP_IP_.dir/47.sep_serv.c.o   -c /mnt/d/github/TCP-IP-/47.sep_serv.c
+CMakeFiles/TCP_IP_.dir/53.echo_EPETserv.c.o: CMakeFiles/TCP_IP_.dir/flags.make
+CMakeFiles/TCP_IP_.dir/53.echo_EPETserv.c.o: ../53.echo_EPETserv.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/TCP_IP_.dir/53.echo_EPETserv.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/TCP_IP_.dir/53.echo_EPETserv.c.o   -c /mnt/d/github/TCP-IP-/53.echo_EPETserv.c
 
-CMakeFiles/TCP_IP_.dir/47.sep_serv.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_IP_.dir/47.sep_serv.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/d/github/TCP-IP-/47.sep_serv.c > CMakeFiles/TCP_IP_.dir/47.sep_serv.c.i
+CMakeFiles/TCP_IP_.dir/53.echo_EPETserv.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_IP_.dir/53.echo_EPETserv.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/d/github/TCP-IP-/53.echo_EPETserv.c > CMakeFiles/TCP_IP_.dir/53.echo_EPETserv.c.i
 
-CMakeFiles/TCP_IP_.dir/47.sep_serv.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_IP_.dir/47.sep_serv.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/d/github/TCP-IP-/47.sep_serv.c -o CMakeFiles/TCP_IP_.dir/47.sep_serv.c.s
-
-CMakeFiles/TCP_IP_.dir/48.sep_clnt.c.o: CMakeFiles/TCP_IP_.dir/flags.make
-CMakeFiles/TCP_IP_.dir/48.sep_clnt.c.o: ../48.sep_clnt.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/TCP_IP_.dir/48.sep_clnt.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/TCP_IP_.dir/48.sep_clnt.c.o   -c /mnt/d/github/TCP-IP-/48.sep_clnt.c
-
-CMakeFiles/TCP_IP_.dir/48.sep_clnt.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_IP_.dir/48.sep_clnt.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/d/github/TCP-IP-/48.sep_clnt.c > CMakeFiles/TCP_IP_.dir/48.sep_clnt.c.i
-
-CMakeFiles/TCP_IP_.dir/48.sep_clnt.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_IP_.dir/48.sep_clnt.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/d/github/TCP-IP-/48.sep_clnt.c -o CMakeFiles/TCP_IP_.dir/48.sep_clnt.c.s
-
-CMakeFiles/TCP_IP_.dir/49.dup.c.o: CMakeFiles/TCP_IP_.dir/flags.make
-CMakeFiles/TCP_IP_.dir/49.dup.c.o: ../49.dup.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/TCP_IP_.dir/49.dup.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/TCP_IP_.dir/49.dup.c.o   -c /mnt/d/github/TCP-IP-/49.dup.c
-
-CMakeFiles/TCP_IP_.dir/49.dup.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_IP_.dir/49.dup.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/d/github/TCP-IP-/49.dup.c > CMakeFiles/TCP_IP_.dir/49.dup.c.i
-
-CMakeFiles/TCP_IP_.dir/49.dup.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_IP_.dir/49.dup.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/d/github/TCP-IP-/49.dup.c -o CMakeFiles/TCP_IP_.dir/49.dup.c.s
-
-CMakeFiles/TCP_IP_.dir/50.sep_serv2.c.o: CMakeFiles/TCP_IP_.dir/flags.make
-CMakeFiles/TCP_IP_.dir/50.sep_serv2.c.o: ../50.sep_serv2.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/TCP_IP_.dir/50.sep_serv2.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/TCP_IP_.dir/50.sep_serv2.c.o   -c /mnt/d/github/TCP-IP-/50.sep_serv2.c
-
-CMakeFiles/TCP_IP_.dir/50.sep_serv2.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/TCP_IP_.dir/50.sep_serv2.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /mnt/d/github/TCP-IP-/50.sep_serv2.c > CMakeFiles/TCP_IP_.dir/50.sep_serv2.c.i
-
-CMakeFiles/TCP_IP_.dir/50.sep_serv2.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_IP_.dir/50.sep_serv2.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/d/github/TCP-IP-/50.sep_serv2.c -o CMakeFiles/TCP_IP_.dir/50.sep_serv2.c.s
+CMakeFiles/TCP_IP_.dir/53.echo_EPETserv.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/TCP_IP_.dir/53.echo_EPETserv.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /mnt/d/github/TCP-IP-/53.echo_EPETserv.c -o CMakeFiles/TCP_IP_.dir/53.echo_EPETserv.c.s
 
 # Object files for target TCP_IP_
 TCP_IP__OBJECTS = \
-"CMakeFiles/TCP_IP_.dir/47.sep_serv.c.o" \
-"CMakeFiles/TCP_IP_.dir/48.sep_clnt.c.o" \
-"CMakeFiles/TCP_IP_.dir/49.dup.c.o" \
-"CMakeFiles/TCP_IP_.dir/50.sep_serv2.c.o"
+"CMakeFiles/TCP_IP_.dir/53.echo_EPETserv.c.o"
 
 # External object files for target TCP_IP_
 TCP_IP__EXTERNAL_OBJECTS =
 
-TCP_IP_: CMakeFiles/TCP_IP_.dir/47.sep_serv.c.o
-TCP_IP_: CMakeFiles/TCP_IP_.dir/48.sep_clnt.c.o
-TCP_IP_: CMakeFiles/TCP_IP_.dir/49.dup.c.o
-TCP_IP_: CMakeFiles/TCP_IP_.dir/50.sep_serv2.c.o
+TCP_IP_: CMakeFiles/TCP_IP_.dir/53.echo_EPETserv.c.o
 TCP_IP_: CMakeFiles/TCP_IP_.dir/build.make
 TCP_IP_: CMakeFiles/TCP_IP_.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking C executable TCP_IP_"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/mnt/d/github/TCP-IP-/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking C executable TCP_IP_"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/TCP_IP_.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
