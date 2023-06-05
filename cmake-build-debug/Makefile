@@ -150,6 +150,33 @@ TCP_IP_/fast:
 	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/57.chat_clnt.c.s
 .PHONY : 57.chat_clnt.c.s
 
+58.webserv.o: 58.webserv.c.o
+
+.PHONY : 58.webserv.o
+
+# target to build an object file
+58.webserv.c.o:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/58.webserv.c.o
+.PHONY : 58.webserv.c.o
+
+58.webserv.i: 58.webserv.c.i
+
+.PHONY : 58.webserv.i
+
+# target to preprocess a source file
+58.webserv.c.i:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/58.webserv.c.i
+.PHONY : 58.webserv.c.i
+
+58.webserv.s: 58.webserv.c.s
+
+.PHONY : 58.webserv.s
+
+# target to generate assembly for a file
+58.webserv.c.s:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/58.webserv.c.s
+.PHONY : 58.webserv.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -162,6 +189,9 @@ help:
 	@echo "... 57.chat_clnt.o"
 	@echo "... 57.chat_clnt.i"
 	@echo "... 57.chat_clnt.s"
+	@echo "... 58.webserv.o"
+	@echo "... 58.webserv.i"
+	@echo "... 58.webserv.s"
 .PHONY : help
 
 

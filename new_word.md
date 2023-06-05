@@ -27,4 +27,7 @@ reentrant               重入的
 mutual                  相互的
 exclusion               排斥
 semaphore               信号灯
+stateless               无状态
+session                 会议，会话
+
 ```
