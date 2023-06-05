@@ -24,7 +24,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 8,
+				"line" : 9,
 				"parent" : 0
 			}
 		]
@@ -35,7 +35,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g  "
+					"fragment" : " -std=c11 -pthread -g  "
 				},
 				{
 					"fragment" : "-std=gnu11"
@@ -54,7 +54,7 @@
 		"commandFragments" : 
 		[
 			{
-				"fragment" : "-g",
+				"fragment" : "-std=c11 -pthread -g",
 				"role" : "flags"
 			},
 			{
@@ -86,7 +86,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "53.echo_EPETserv.c",
+			"path" : "57.chat_clnt.c",
 			"sourceGroupIndex" : 0
 		}
 	],

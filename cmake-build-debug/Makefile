@@ -123,32 +123,32 @@ TCP_IP_/fast:
 	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/build
 .PHONY : TCP_IP_/fast
 
-53.echo_EPETserv.o: 53.echo_EPETserv.c.o
+57.chat_clnt.o: 57.chat_clnt.c.o
 
-.PHONY : 53.echo_EPETserv.o
+.PHONY : 57.chat_clnt.o
 
 # target to build an object file
-53.echo_EPETserv.c.o:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/53.echo_EPETserv.c.o
-.PHONY : 53.echo_EPETserv.c.o
+57.chat_clnt.c.o:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/57.chat_clnt.c.o
+.PHONY : 57.chat_clnt.c.o
 
-53.echo_EPETserv.i: 53.echo_EPETserv.c.i
+57.chat_clnt.i: 57.chat_clnt.c.i
 
-.PHONY : 53.echo_EPETserv.i
+.PHONY : 57.chat_clnt.i
 
 # target to preprocess a source file
-53.echo_EPETserv.c.i:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/53.echo_EPETserv.c.i
-.PHONY : 53.echo_EPETserv.c.i
+57.chat_clnt.c.i:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/57.chat_clnt.c.i
+.PHONY : 57.chat_clnt.c.i
 
-53.echo_EPETserv.s: 53.echo_EPETserv.c.s
+57.chat_clnt.s: 57.chat_clnt.c.s
 
-.PHONY : 53.echo_EPETserv.s
+.PHONY : 57.chat_clnt.s
 
 # target to generate assembly for a file
-53.echo_EPETserv.c.s:
-	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/53.echo_EPETserv.c.s
-.PHONY : 53.echo_EPETserv.c.s
+57.chat_clnt.c.s:
+	$(MAKE) -f CMakeFiles/TCP_IP_.dir/build.make CMakeFiles/TCP_IP_.dir/57.chat_clnt.c.s
+.PHONY : 57.chat_clnt.c.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... TCP_IP_"
-	@echo "... 53.echo_EPETserv.o"
-	@echo "... 53.echo_EPETserv.i"
-	@echo "... 53.echo_EPETserv.s"
+	@echo "... 57.chat_clnt.o"
+	@echo "... 57.chat_clnt.i"
+	@echo "... 57.chat_clnt.s"
 .PHONY : help
 
 

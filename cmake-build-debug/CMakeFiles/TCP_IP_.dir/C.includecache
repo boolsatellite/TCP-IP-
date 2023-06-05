@@ -6,11 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/mnt/d/github/TCP-IP-/53.echo_EPETserv.c
-fcntl.h
--
-errno.h
-/mnt/d/github/TCP-IP-/errno.h
+/mnt/d/github/TCP-IP-/57.chat_clnt.c
+pthread.h
+/mnt/d/github/TCP-IP-/pthread.h
 stdio.h
 /mnt/d/github/TCP-IP-/stdio.h
 stdlib.h
@@ -23,6 +21,4 @@ arpa/inet.h
 /mnt/d/github/TCP-IP-/arpa/inet.h
 sys/socket.h
 /mnt/d/github/TCP-IP-/sys/socket.h
-sys/epoll.h
-/mnt/d/github/TCP-IP-/sys/epoll.h
 

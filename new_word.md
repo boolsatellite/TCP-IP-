@@ -22,5 +22,9 @@ peek                    窥视
 urgent                  迫切的
 edge                    边缘
 trig                    触发
-
+param                   参数
+reentrant               重入的
+mutual                  相互的
+exclusion               排斥
+semaphore               信号灯
 ```
